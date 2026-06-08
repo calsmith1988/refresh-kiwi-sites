@@ -1,0 +1,16 @@
+{
+  "brandName": "Vale 2 Valley Property Services",
+  "slug": "vale2valley",
+  "sourceUrl": "http://www.vale2valley.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about-us", "title": "About Us" },
+    { "path": "/services", "title": "Services" },
+    { "path": "/gallery", "title": "Gallery" },
+    { "path": "/reviews", "title": "Reviews" },
+    { "path": "/send-an-enquiry", "title": "Send An Enquiry" },
+    { "path": "/privacy-policy", "title": "Privacy Policy" }
+  ]
+}
