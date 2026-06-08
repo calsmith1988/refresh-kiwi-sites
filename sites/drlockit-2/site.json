@@ -3,11 +3,10 @@
   "slug": "drlockit-2",
   "sourceUrl": "https://drlockit.co.uk/",
   "pages": [
-    { "path": "/", "title": "Home", "gated": false }
+    { "path": "/", "title": "Home", "gated": false },
+    { "path": "/about", "title": "About Us", "gated": true },
+    { "path": "/services", "title": "Services", "gated": true },
+    { "path": "/contact", "title": "Contact Us", "gated": true }
   ],
-  "discoveredPages": [
-    { "path": "/about", "title": "About Us" },
-    { "path": "/services", "title": "Services" },
-    { "path": "/contact", "title": "Contact Us" }
-  ]
+  "discoveredPages": []
 }
