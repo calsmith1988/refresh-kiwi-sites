@@ -1,0 +1,12 @@
+{
+  "brandName": "Example Business",
+  "slug": "example-business",
+  "sourceUrl": "https://example.com",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about", "title": "About" },
+    { "path": "/contact", "title": "Contact" }
+  ]
+}
