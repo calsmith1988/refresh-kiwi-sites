@@ -1,0 +1,9 @@
+{
+  "brandName": "Maz",
+  "slug": "meetmaz",
+  "sourceUrl": "https://www.meetmaz.com/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}

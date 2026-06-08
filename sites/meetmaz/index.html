@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Maz — Your AI Agent for Amazon Ads</title>
+    <meta
+      name="description"
+      content="Built on $10m+ of real Amazon Ads expertise — Maz monitors your account, learns your goals, remembers your preferences, and gets to work in Slack."
+    />
+    <link rel="icon" href="./assets/logo.png" type="image/png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Parkinsans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="header-shell">
+        <a href="/" class="brand">
+          <img src="./assets/logo.png" alt="" width="28" height="28" />
+          <span>Maz</span>
+        </a>
+
+        <nav class="nav-main" aria-label="Primary">
+          <a href="#features">Features</a>
+          <a href="#compare">Compare</a>
+          <a href="#setup">Setup</a>
+          <a href="#faq">FAQ</a>
+        </nav>
+
+        <div class="header-actions">
+          <a class="btn btn-ghost" href="#features">See it work</a>
+          <a class="btn btn-primary" href="#waitlist">Join waitlist</a>
+          <button
+            class="menu-toggle"
+            type="button"
+            aria-expanded="false"
+            aria-controls="mobile-nav"
+            aria-label="Open menu"
+          >
+            <span></span><span></span><span></span>
+          </button>
+        </div>
+      </div>
+
+      <nav class="nav-mobile" id="mobile-nav" hidden>
+        <a href="#features">Features</a>
+        <a href="#compare">Compare</a>
+        <a href="#setup">Setup</a>
+        <a href="#faq">FAQ</a>
+        <a href="#waitlist">Join waitlist</a>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="hero">
+        <div class="hero-bg" aria-hidden="true">
+          <div class="hero-grid-lines"></div>
+          <div class="hero-orb hero-orb--a"></div>
+          <div class="hero-orb hero-orb--b"></div>
+        </div>
+
+        <div class="wrap hero-layout">
+          <div class="hero-content reveal">
+            <div class="hero-badge">
+              <span class="pulse-dot" aria-hidden="true"></span>
+              Thinks. Remembers. Acts.
+            </div>
+            <h1>
+              Your AI agent for
+              <span class="text-accent text-italic">Amazon Ads</span>
+            </h1>
+            <p class="lede">
+              Built on $10m+ of real Amazon Ads expertise — Maz monitors your account,
+              learns your goals, remembers your preferences, and gets to work. Approve
+              changes, or automate everything.
+            </p>
+            <div class="hero-ctas">
+              <a class="btn btn-primary" href="#waitlist">Join the waitlist</a>
+              <a class="btn btn-ghost" href="#features">See how it works</a>
+            </div>
+            <div class="hero-proof">
+              <span class="proof-chip">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                  <path d="M20 6L9 17l-5-5" />
+                </svg>
+                Trained on real operating experience
+              </span>
+              <span class="proof-chip">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                  <path d="M20 6L9 17l-5-5" />
+                </svg>
+                Memory-powered
+              </span>
+              <span class="proof-chip">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                  <path d="M20 6L9 17l-5-5" />
+                </svg>
+                Strategy-aware
+              </span>
+            </div>
+          </div>
+
+          <div class="hero-visual reveal">
+            <div class="visual-frame">
+              <img
+                src="./assets/slack-conversation.png"
+                alt="Slack conversation with Maz showing campaign performance data and approved bid changes"
+                width="880"
+                height="550"
+                loading="eager"
+              />
+              <p class="visual-caption">
+                A real conversation — ask about performance, get data back, approve changes.
+              </p>
+            </div>
+            <div class="visual-float" aria-hidden="true">
+              Live Amazon Ads API · No spreadsheets
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="stats-band">
+        <div class="wrap stats-grid reveal">
+          <div>
+            <div class="stat-value">$10m+</div>
+            <div class="stat-label">Ads expertise baked in</div>
+          </div>
+          <div>
+            <div class="stat-value">400+</div>
+            <div class="stat-label">Client strategy transcripts</div>
+          </div>
+          <div>
+            <div class="stat-value">2 min</div>
+            <div class="stat-label">Slack + API setup</div>
+          </div>
+          <div>
+            <div class="stat-value">24/7</div>
+            <div class="stat-label">Monitoring &amp; alerts</div>
+          </div>
+        </div>
+      </div>
+
+      <section id="problem">
+        <div class="wrap">
+          <div class="section-head reveal">
+            <p class="eyebrow">The problem</p>
+            <h2>You already know the pain.</h2>
+            <p class="lede">
+              The tools exist. But you're still the one doing all the work — piecing
+              together data, babysitting rules, and waiting on yourself to log in.
+            </p>
+          </div>
+
+          <div class="pain-grid">
+            <article class="pain-card reveal">
+              <div class="pain-icon" aria-hidden="true">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <rect x="3" y="3" width="7" height="7" rx="1" />
+                  <rect x="14" y="3" width="7" height="7" rx="1" />
+                  <rect x="3" y="14" width="7" height="7" rx="1" />
+                  <rect x="14" y="14" width="7" height="7" rx="1" />
+                </svg>
+              </div>
+              <h3>Data lives everywhere</h3>
+              <p>
+                Console, spreadsheets, automation tools, dashboards — by the time you
+                connect the dots, half your day is gone.
+              </p>
+            </article>
+            <article class="pain-card reveal">
+              <div class="pain-icon" aria-hidden="true">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" />
+                </svg>
+              </div>
+              <h3>Automation that can't think</h3>
+              <p>
+                Rule-based tools only do what you tell them. No strategy, no memory,
+                starting from zero every session.
+              </p>
+            </article>
+            <article class="pain-card reveal">
+              <div class="pain-icon" aria-hidden="true">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <circle cx="12" cy="12" r="10" />
+                  <path d="M12 6v6l4 2" />
+                </svg>
+              </div>
+              <h3>You're the bottleneck</h3>
+              <p>
+                Every decision, analysis, and judgement call waits for you. Nothing
+                moves until you show up — and there are never enough hours.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="features">
+        <div class="wrap">
+          <div class="section-head centered reveal">
+            <p class="eyebrow">See it in action</p>
+            <h2>Work with Maz in Slack.</h2>
+            <p class="lede">
+              No new software to learn. No dashboard to check. Just a conversation —
+              and real results on your Amazon Ads account.
+            </p>
+          </div>
+
+          <div class="bento">
+            <article class="bento-card bento-card--wide reveal">
+              <div>
+                <h3>Chat with live campaign data</h3>
+                <p>
+                  Ask anything — "How did my top campaigns do last week?" or "What's
+                  burning budget?" Maz pulls real-time data from the Amazon Ads API,
+                  not uploaded sheets.
+                </p>
+                <div class="tag-row">
+                  <span class="tag">Bid adjustments</span>
+                  <span class="tag">Budget shifts</span>
+                  <span class="tag">Placement changes</span>
+                  <span class="tag">Campaign launches</span>
+                </div>
+              </div>
+              <div class="slack-mock" aria-hidden="true">
+                <div class="slack-mock__bar"><span></span><span></span><span></span></div>
+                <div class="slack-mock__body">
+                  <div class="msg msg--user">
+                    <div class="msg-avatar"></div>
+                    <div class="msg-bubble"><strong>You</strong>What's burning budget this week?</div>
+                  </div>
+                  <div class="msg">
+                    <div class="msg-avatar"></div>
+                    <div class="msg-bubble">
+                      <strong>Maz</strong>
+                      3 campaigns are pacing 40% over target. Want me to propose bid cuts?
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </article>
+
+            <article class="bento-card reveal">
+              <h3>Reports on demand</h3>
+              <p>
+                PDF, CSV, or interactive dashboards — shareable via link on any device.
+                No exporting, no formatting.
+              </p>
+              <div class="tag-row">
+                <span class="tag">PDF reports</span>
+                <span class="tag">CSV exports</span>
+                <span class="tag">Live dashboards</span>
+              </div>
+            </article>
+
+            <article class="bento-card reveal">
+              <h3>Scheduled updates &amp; alerts</h3>
+              <p>
+                Daily, weekly, or monthly summaries in Slack. Maz flags budget spikes
+                and sideways campaigns before they become problems.
+              </p>
+              <div class="tag-row">
+                <span class="tag">Red flag alerts</span>
+                <span class="tag">Recurring tasks</span>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="different">
+        <div class="wrap">
+          <div class="section-head reveal">
+            <p class="eyebrow">Under the hood</p>
+            <h2>Not a chatbot. An agent.</h2>
+            <p class="lede">
+              Maz thinks toward your goals, remembers everything, and acts with the
+              level of control you choose — with full transparency on every change.
+            </p>
+          </div>
+
+          <div class="persona-grid">
+            <article class="persona-card reveal">
+              <h3>Works toward your goals</h3>
+              <p>
+                Set target ACoS, scaling plans, or launch strategy. Maz tracks progress
+                and makes smart decisions — not rigid rules.
+              </p>
+            </article>
+            <article class="persona-card reveal">
+              <h3>Remembers everything</h3>
+              <p>
+                Strategy, KPIs, past conversations, what worked last month. Every
+                interaction makes Maz sharper — it never starts from scratch.
+              </p>
+            </article>
+            <article class="persona-card reveal">
+              <h3>Your level of control</h3>
+              <p>
+                Approve every change first, or let Maz handle routine work. Every bid
+                shift and budget move is logged — visible, when, and why.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="compare">
+        <div class="wrap">
+          <div class="section-head centered reveal">
+            <p class="eyebrow">How Maz compares</p>
+            <h2>Not another tool. A smarter way to work.</h2>
+          </div>
+
+          <div class="compare-shell reveal">
+            <div class="compare-row compare-row--head">
+              <div class="compare-cell compare-cell--label"></div>
+              <div class="compare-cell compare-cell--other">Other tools</div>
+              <div class="compare-cell compare-cell--maz">Maz</div>
+            </div>
+            <div class="compare-row">
+              <div class="compare-cell compare-cell--label">Where it lives</div>
+              <div class="compare-cell compare-cell--other">Another dashboard to log into</div>
+              <div class="compare-cell compare-cell--maz">Slack — where you already work</div>
+            </div>
+            <div class="compare-row">
+              <div class="compare-cell compare-cell--label">How it thinks</div>
+              <div class="compare-cell compare-cell--other">Static rules you configure</div>
+              <div class="compare-cell compare-cell--maz">Goals, strategy, and memory</div>
+            </div>
+            <div class="compare-row">
+              <div class="compare-cell compare-cell--label">Data access</div>
+              <div class="compare-cell compare-cell--other">Manual bulk uploads</div>
+              <div class="compare-cell compare-cell--maz">Direct API — real-time, always on</div>
+            </div>
+            <div class="compare-row">
+              <div class="compare-cell compare-cell--label">Team use</div>
+              <div class="compare-cell compare-cell--other">Per-seat logins</div>
+              <div class="compare-cell compare-cell--maz">Whole team in one Slack channel</div>
+            </div>
+            <div class="compare-row">
+              <div class="compare-cell compare-cell--label">Typical cost</div>
+              <div class="compare-cell compare-cell--other">£500–£3,000+/mo per tool</div>
+              <div class="compare-cell compare-cell--maz">A fraction of one full-time hire</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="audience">
+        <div class="wrap">
+          <div class="section-head centered reveal">
+            <p class="eyebrow">Who it's for</p>
+            <h2>Built for people who sell on Amazon.</h2>
+          </div>
+
+          <div class="persona-grid">
+            <article class="persona-card reveal">
+              <h3>Amazon sellers</h3>
+              <p>
+                Running ads without time or headcount? Get senior-level management
+                without the senior-level price tag.
+              </p>
+            </article>
+            <article class="persona-card reveal">
+              <h3>Ad agencies</h3>
+              <p>
+                Maz handles day-to-day across client accounts so your team can focus
+                on strategy and growth.
+              </p>
+            </article>
+            <article class="persona-card reveal">
+              <h3>In-house managers</h3>
+              <p>
+                You know what needs doing — there just aren't enough hours. Maz takes
+                the heavy lifting so you focus on decisions that matter.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="setup">
+        <div class="wrap">
+          <div class="section-head centered reveal">
+            <p class="eyebrow">Getting started</p>
+            <h2>Set up in 2 minutes. Seriously.</h2>
+          </div>
+
+          <div class="steps">
+            <article class="step-card reveal">
+              <h3>Add Maz to Slack</h3>
+              <p>One-click install. No IT department required.</p>
+              <span class="step-time">30 seconds</span>
+            </article>
+            <article class="step-card reveal">
+              <h3>Connect Amazon Ads</h3>
+              <p>Secure API link with read and write access to your campaigns.</p>
+              <span class="step-time">90 seconds</span>
+            </article>
+            <article class="step-card reveal">
+              <h3>Just ask</h3>
+              <p>Share goals, ask questions, or let Maz propose a plan. You're running.</p>
+              <span class="step-time">Done</span>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="faq">
+        <div class="wrap">
+          <div class="section-head centered reveal">
+            <p class="eyebrow">FAQ</p>
+            <h2>Questions you might have.</h2>
+          </div>
+
+          <div class="faq-list">
+            <article class="faq-item reveal">
+              <button class="faq-trigger" type="button" aria-expanded="false">
+                What exactly is Maz?
+                <span class="faq-icon" aria-hidden="true">+</span>
+              </button>
+              <div class="faq-panel">
+                An AI agent in Slack connected to your Amazon Ads account. It answers
+                questions, adjusts bids and budgets, builds reports, runs on a schedule,
+                and works like a senior ads manager — 24/7.
+              </div>
+            </article>
+            <article class="faq-item reveal">
+              <button class="faq-trigger" type="button" aria-expanded="false">
+                How is Maz different from ChatGPT?
+                <span class="faq-icon" aria-hidden="true">+</span>
+              </button>
+              <div class="faq-panel">
+                ChatGPT can't connect to your account or take action. Maz uses the
+                Amazon Ads API for real-time data, makes changes directly, and
+                remembers your goals and strategy across sessions.
+              </div>
+            </article>
+            <article class="faq-item reveal">
+              <button class="faq-trigger" type="button" aria-expanded="false">
+                Will Maz make changes without asking?
+                <span class="faq-icon" aria-hidden="true">+</span>
+              </button>
+              <div class="faq-panel">
+                Only if you want it to. Require approval on every action, or grant
+                autonomy for routine tasks. You set the guardrails.
+              </div>
+            </article>
+            <article class="faq-item reveal">
+              <button class="faq-trigger" type="button" aria-expanded="false">
+                How much does Maz cost?
+                <span class="faq-icon" aria-hidden="true">+</span>
+              </button>
+              <div class="faq-panel">
+                Pricing will be announced closer to launch — a fraction of hiring a
+                senior Amazon Ads manager. Join the waitlist to hear first.
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="cta-section" id="waitlist">
+        <div class="wrap">
+          <div class="cta-card reveal">
+            <h2>
+              Get a senior Amazon Ads manager
+              <span class="text-italic">for a fraction of the cost.</span>
+            </h2>
+            <p class="lede">
+              Maz works 24/7, responds in seconds, and never takes a day off. Join the
+              waitlist and be first in line at launch.
+            </p>
+            <form class="waitlist-form" data-waitlist-form>
+              <input
+                type="email"
+                name="email"
+                placeholder="you@company.com"
+                autocomplete="email"
+                required
+                aria-label="Email address"
+              />
+              <button class="btn btn-primary" type="submit">Join the waitlist</button>
+            </form>
+            <p class="form-note">Early access and launch updates. No spam, ever.</p>
+            <p class="form-feedback" aria-live="polite"></p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap footer-shell">
+        <a href="/" class="brand">
+          <img src="./assets/logo.png" alt="" width="24" height="24" />
+          <span>Maz</span>
+        </a>
+        <p>Your AI agent for Amazon Ads · Trained on real operating expertise</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
