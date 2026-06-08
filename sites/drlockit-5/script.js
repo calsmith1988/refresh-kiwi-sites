@@ -48,4 +48,21 @@
   } else {
     reveals.forEach((el) => el.classList.add("is-visible"));
   }
+
+  document.querySelectorAll(".contact-form").forEach((form) => {
+    form.addEventListener("submit", (event) => {
+      event.preventDefault();
+      const btn = form.querySelector('button[type="submit"]');
+      if (btn) {
+        const original = btn.textContent;
+        btn.textContent = "Message sent — we'll be in touch";
+        btn.disabled = true;
+        setTimeout(() => {
+          btn.textContent = original;
+          btn.disabled = false;
+          form.reset();
+        }, 3000);
+      }
+    });
+  });
 })();
