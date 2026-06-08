@@ -1,0 +1,20 @@
+{
+  "brandName": "Sam's Clinic",
+  "slug": "samsclinic",
+  "sourceUrl": "https://www.samsclinic.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about", "title": "About" },
+    { "path": "/acupuncture", "title": "Acupuncture" },
+    { "path": "/acupuncture-other-treatments", "title": "Acupuncture & Other Treatments" },
+    { "path": "/cupping", "title": "Cupping" },
+    { "path": "/gua-sha", "title": "Gua Sha" },
+    { "path": "/tui-na", "title": "Tui-Na" },
+    { "path": "/the-health-benefits-of-tai-chi", "title": "The Health Benefits of Tai Chi" },
+    { "path": "/classes", "title": "Testimonies" },
+    { "path": "/master-sam-s-achivements", "title": "Sam's Achievements" },
+    { "path": "/frequently-asked-questions", "title": "FAQ" }
+  ]
+}
