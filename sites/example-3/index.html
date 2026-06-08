@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Example Domain</title>
+    <meta name="description" content="This domain is for use in documentation examples without needing permission." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="scanline" aria-hidden="true"></div>
+
+    <header class="topbar">
+      <a href="/" class="brand">
+        <img src="assets/logo.svg" alt="" width="36" height="36" />
+        <span>example.com</span>
+      </a>
+      <span class="status-pill">reserved</span>
+    </header>
+
+    <main class="layout">
+      <section class="hero">
+        <p class="tag">// documentation placeholder</p>
+        <h1>Example Domain</h1>
+        <p class="lead">
+          This domain is for use in documentation examples without needing permission. Avoid use in operations.
+        </p>
+        <a href="https://iana.org/domains/example" class="cta" target="_blank" rel="noopener noreferrer">
+          Learn more
+          <span aria-hidden="true">↗</span>
+        </a>
+      </section>
+
+      <aside class="panel" aria-label="Domain reference">
+        <div class="panel-header">
+          <img src="assets/logo.svg" alt="Example Domain emblem" width="80" height="80" />
+          <span class="panel-title">domain.spec</span>
+        </div>
+        <pre class="code-block"><code><span class="kw">const</span> example = {
+  <span class="prop">host</span>: <span class="str">"example.com"</span>,
+  <span class="prop">purpose</span>: <span class="str">"documentation"</span>,
+  <span class="prop">production</span>: <span class="bool">false</span>,
+  <span class="prop">operator</span>: <span class="str">"IANA"</span>
+};</code></pre>
+        <ul class="facts">
+          <li><span>Status</span><strong>Reserved</strong></li>
+          <li><span>Use case</span><strong>Illustration only</strong></li>
+          <li><span>Permission</span><strong>Not required</strong></li>
+        </ul>
+      </aside>
+    </main>
+
+    <footer class="footer">
+      <p>A deliberately neutral hostname for writers, educators, and engineers.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
