@@ -1,0 +1,14 @@
+{
+  "brandName": "Big Green Solar",
+  "slug": "biggreensolar-3",
+  "sourceUrl": "https://biggreensolar.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/solar-panels/", "title": "Solar Panels" },
+    { "path": "/battery-storage/", "title": "Battery Storage" },
+    { "path": "/solar-panels-battery-storage/", "title": "Solar Panels & Battery Storage" },
+    { "path": "/privacy-policy/", "title": "Privacy Policy" }
+  ]
+}
