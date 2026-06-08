@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact Us — Dr Lock It</title>
+    <meta
+      name="description"
+      content="Contact Dr Lock It for 24/7 emergency locksmith help in Cardiff and South Wales. Call 029 2117 0990 or send a message."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Syne:wght@500;600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <div class="gate-notice" role="note">
+      <svg class="gate-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
+        <path
+          fill="currentColor"
+          d="M18 8h-1V6a5 5 0 00-10 0v2H6a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V10a2 2 0 00-2-2zm-6 9a2 2 0 01-2-2v-2a2 2 0 114 0v2a2 2 0 01-2 2zm3-9H9V6a3 3 0 016 0v2z"
+        />
+      </svg>
+      <span>Preview page — unlocks at launch</span>
+    </div>
+
+    <div class="ambient" aria-hidden="true">
+      <div class="ambient-orb ambient-orb--1"></div>
+      <div class="ambient-orb ambient-orb--2"></div>
+      <div class="ambient-grid"></div>
+    </div>
+
+    <header class="site-header">
+      <div class="header-shell">
+        <a href="/" class="brand" aria-label="Dr Lock It home">
+          <img src="../assets/logo.png" alt="" width="48" height="48" />
+          <span class="brand-name">Dr Lock It</span>
+        </a>
+        <nav class="nav" aria-label="Main">
+          <a href="/" class="nav-link">Home</a>
+          <a href="/about" class="nav-link is-gated">About<span class="nav-lock" aria-hidden="true">&#128274;</span></a>
+          <a href="/services" class="nav-link is-gated">Services<span class="nav-lock" aria-hidden="true">&#128274;</span></a>
+          <a href="/contact" class="nav-link is-active" aria-current="page">Contact</a>
+        </nav>
+        <div class="header-actions">
+          <span class="header-status">
+            <span class="pulse-dot" aria-hidden="true"></span>
+            24/7 Emergency
+          </span>
+          <a href="tel:02921170990" class="btn btn-gold">029 2117 0990</a>
+        </div>
+        <button class="menu-toggle" aria-label="Open menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="contact-layout">
+        <div class="contact-urgent">
+          <p class="eyebrow">24/7 Emergency</p>
+          <h1>Contact Us</h1>
+          <p class="contact-urgent-lead">
+            Need help fast? Get in touch — we're here around the clock for all your locksmith needs.
+          </p>
+
+          <a href="tel:02921170990" class="contact-phone">029 2117 0990</a>
+
+          <dl class="contact-details">
+            <div>
+              <dt>Call-out fee</dt>
+              <dd>None</dd>
+            </div>
+            <div>
+              <dt>Response</dt>
+              <dd>Day &amp; night</dd>
+            </div>
+            <div>
+              <dt>Coverage</dt>
+              <dd>Cardiff &amp; South Wales</dd>
+            </div>
+          </dl>
+
+          <ul class="contact-areas" aria-label="Coverage areas">
+            <li>Cardiff</li>
+            <li>Barry</li>
+            <li>Penarth</li>
+            <li>Caerphilly</li>
+            <li>Newport</li>
+            <li>Risca</li>
+            <li>Cwmbran</li>
+            <li>South Wales</li>
+          </ul>
+        </div>
+
+        <div class="contact-form-panel">
+          <h2>Get in touch</h2>
+          <p>Fill out the form below and we will contact you as soon as possible.</p>
+
+          <form class="contact-form" action="#" method="post">
+            <label>
+              Your Name
+              <input type="text" name="name" autocomplete="name" placeholder="John Smith" required />
+            </label>
+            <label>
+              Phone Number
+              <input type="tel" name="phone" autocomplete="tel" placeholder="07XXX XXXXXX" required />
+            </label>
+            <label>
+              Message
+              <textarea name="message" rows="5" placeholder="How can we help?" required></textarea>
+            </label>
+            <button type="submit" class="btn btn-primary">Send message</button>
+          </form>
+
+          <p class="contact-form-hint">
+            For urgent lockouts, call directly — we typically arrive within minutes across Cardiff.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <a href="/" class="brand brand--footer">
+          <img src="../assets/logo.png" alt="" width="40" height="40" />
+          <span class="brand-name">Dr Lock It</span>
+        </a>
+        <p class="footer-tagline">Trusted locksmith services in Cardiff &amp; South Wales</p>
+        <nav class="footer-nav" aria-label="Footer">
+          <a href="/">Home</a>
+          <a href="/about">About</a>
+          <a href="/services">Services</a>
+          <a href="/contact">Contact</a>
+        </nav>
+        <p class="footer-copy">&copy; <span id="year"></span> Dr Lock It. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script src="../script.js"></script>
+  </body>
+</html>

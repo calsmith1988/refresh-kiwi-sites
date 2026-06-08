@@ -22,7 +22,7 @@
   }
 
   const revealEls = document.querySelectorAll(
-    ".hero-copy, .hero-visual, .proof-card, .service-card, .testimonial, .coverage-inner, .offer-inner, .cta-band-inner"
+    ".hero-copy, .hero-visual, .proof-card, .service-card, .testimonial, .coverage-inner, .offer-inner, .cta-band-inner, .page-masthead-inner, .story-block-inner, .mission-panel-inner, .pillar-card, .services-intro-inner, .service-deep-inner, .review-card, .page-cta-inner, .contact-layout > *"
   );
 
   revealEls.forEach((el) => el.classList.add("reveal"));
