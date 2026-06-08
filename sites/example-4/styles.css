@@ -1,0 +1,228 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --ink: #1a2b4a;
+  --paper: #f4efe6;
+  --accent: #c45c3e;
+  --muted: #6b7280;
+  --link: #334488;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  font-family: "Outfit", system-ui, sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+  line-height: 1.6;
+}
+
+.grain {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.35;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.08'/%3E%3C/svg%3E");
+  z-index: 100;
+}
+
+.masthead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.25rem clamp(1.5rem, 5vw, 3rem);
+  border-bottom: 1px solid rgba(26, 43, 74, 0.12);
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  color: var(--ink);
+  font-weight: 500;
+}
+
+.brand img {
+  display: block;
+}
+
+.masthead-note {
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+main {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: clamp(2rem, 6vw, 4rem) clamp(1.5rem, 5vw, 3rem);
+  display: grid;
+  gap: clamp(2.5rem, 5vw, 4rem);
+}
+
+@media (min-width: 768px) {
+  main {
+    grid-template-columns: 1.4fr 1fr;
+    align-items: start;
+  }
+}
+
+.plaque {
+  position: relative;
+  display: grid;
+  gap: 2rem;
+  padding: clamp(2rem, 4vw, 3rem);
+  background: #fff;
+  border: 2px solid var(--ink);
+  box-shadow: 6px 6px 0 var(--accent);
+}
+
+@media (min-width: 540px) {
+  .plaque {
+    grid-template-columns: auto 1fr;
+    align-items: center;
+  }
+}
+
+.plaque-stamp {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  padding: 0.35rem 0.6rem;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  color: var(--accent);
+  border: 2px solid var(--accent);
+  transform: rotate(-8deg);
+  opacity: 0.85;
+}
+
+.plaque-emblem {
+  margin: 0;
+}
+
+.plaque-emblem img {
+  display: block;
+  border-radius: 8px;
+}
+
+.eyebrow {
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.75rem;
+}
+
+h1 {
+  font-family: "Fraunces", Georgia, serif;
+  font-size: clamp(2.25rem, 5vw, 3.25rem);
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: 1rem;
+}
+
+.lead {
+  font-size: 1.125rem;
+  color: var(--muted);
+  max-width: 36ch;
+  margin-bottom: 1.75rem;
+}
+
+.cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  font-weight: 500;
+  text-decoration: none;
+  color: #fff;
+  background: var(--ink);
+  border-radius: 4px;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.cta:hover {
+  background: var(--link);
+  transform: translateY(-1px);
+}
+
+.ledger {
+  padding-top: 0.5rem;
+}
+
+.ledger h2 {
+  font-family: "Fraunces", Georgia, serif;
+  font-size: 1.35rem;
+  margin-bottom: 1rem;
+}
+
+.ledger > p {
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+}
+
+.ledger dl {
+  display: grid;
+  gap: 1rem;
+}
+
+.ledger dt {
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 0.2rem;
+}
+
+.ledger dd {
+  font-weight: 500;
+}
+
+.footer {
+  padding: 2rem clamp(1.5rem, 5vw, 3rem);
+  border-top: 1px solid rgba(26, 43, 74, 0.12);
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.plaque,
+.ledger {
+  opacity: 0;
+  transform: translateY(12px);
+  animation: rise 0.7s ease forwards;
+}
+
+.ledger {
+  animation-delay: 0.15s;
+}
+
+@keyframes rise {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .plaque,
+  .ledger {
+    opacity: 1;
+    transform: none;
+    animation: none;
+  }
+}
