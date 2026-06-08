@@ -1,0 +1,9 @@
+{
+  "brandName": "Big Green Solar",
+  "slug": "biggreensolar-4",
+  "sourceUrl": "https://biggreensolar.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}
