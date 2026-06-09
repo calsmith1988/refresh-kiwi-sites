@@ -1,0 +1,13 @@
+{
+  "brandName": "Dr Lock It",
+  "slug": "drlockit-6",
+  "sourceUrl": "https://drlockit.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about", "title": "About Us" },
+    { "path": "/services", "title": "Services" },
+    { "path": "/contact", "title": "Contact Us" }
+  ]
+}
