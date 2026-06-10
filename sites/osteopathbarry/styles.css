@@ -246,6 +246,19 @@ address {
   width: 100%;
 }
 
+.header-phone {
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: var(--ink);
+  text-decoration: none;
+  white-space: nowrap;
+  letter-spacing: -0.01em;
+}
+
+.header-phone:hover {
+  color: var(--clay);
+}
+
 .menu-toggle {
   display: none;
   flex-direction: column;
@@ -285,6 +298,11 @@ address {
   text-decoration: none;
   font-weight: 500;
   border-bottom: 1px solid rgba(26, 46, 36, 0.06);
+}
+
+.mobile-nav .header-phone {
+  font-size: 1.25rem;
+  font-weight: 700;
 }
 
 .mobile-nav[hidden] {
@@ -865,7 +883,8 @@ address {
 
 @media (max-width: 960px) {
   .nav,
-  .header-cta {
+  .header-cta,
+  .header-inner .header-phone {
     display: none;
   }
 
