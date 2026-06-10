@@ -1,0 +1,15 @@
+{
+  "brandName": "Barry & Vale Osteopaths",
+  "slug": "osteopathbarry",
+  "sourceUrl": "https://osteopathbarry.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about", "title": "About" },
+    { "path": "/faq", "title": "FAQ" },
+    { "path": "/contact", "title": "Contact" },
+    { "path": "/blog", "title": "Blog" },
+    { "path": "/pricing", "title": "Services" }
+  ]
+}
