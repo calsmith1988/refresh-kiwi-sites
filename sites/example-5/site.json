@@ -1,0 +1,9 @@
+{
+  "brandName": "Example Domain",
+  "slug": "example-5",
+  "sourceUrl": "https://example.com/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}
