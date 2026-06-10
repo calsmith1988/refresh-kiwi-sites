@@ -1,0 +1,9 @@
+{
+  "brandName": "Roath Auto Parts Cardiff",
+  "slug": "rapparts-2",
+  "sourceUrl": "https://www.rapparts.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}
