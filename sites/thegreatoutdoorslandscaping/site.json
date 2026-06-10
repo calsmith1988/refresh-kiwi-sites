@@ -1,0 +1,12 @@
+{
+  "brandName": "The Great Outdoors Landscaping",
+  "slug": "thegreatoutdoorslandscaping",
+  "sourceUrl": "https://www.thegreatoutdoorslandscaping.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/contact", "title": "Contact" },
+    { "path": "/gallery", "title": "Gallery" }
+  ]
+}
