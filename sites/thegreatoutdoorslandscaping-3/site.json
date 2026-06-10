@@ -3,12 +3,11 @@
   "slug": "thegreatoutdoorslandscaping-3",
   "sourceUrl": "https://www.thegreatoutdoorslandscaping.co.uk/",
   "pages": [
-    { "path": "/", "title": "Home", "gated": false }
+    { "path": "/", "title": "Home", "gated": false },
+    { "path": "/hard-landscaping", "title": "Hard Landscaping", "gated": false },
+    { "path": "/soft-landscaping", "title": "Soft Landscaping", "gated": false },
+    { "path": "/gallery", "title": "Gallery", "gated": false },
+    { "path": "/contact", "title": "Contact", "gated": false }
   ],
-  "discoveredPages": [
-    { "path": "/hard-landscaping", "title": "Hard Landscaping" },
-    { "path": "/soft-landscaping", "title": "Soft Landscaping" },
-    { "path": "/gallery", "title": "Gallery" },
-    { "path": "/contact", "title": "Contact" }
-  ]
+  "discoveredPages": []
 }
