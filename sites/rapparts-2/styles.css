@@ -13,9 +13,9 @@
   --mist: #8b939e;
   --paper: #f6f4f0;
   --paper-deep: #ebe7e0;
-  --amber: #e86a1a;
-  --amber-bright: #ff7f2e;
-  --amber-glow: rgba(232, 106, 26, 0.35);
+  --amber: #1a9a48;
+  --amber-bright: #2ed96e;
+  --amber-glow: rgba(26, 154, 72, 0.35);
   --white: #fffdf9;
   --line: rgba(255, 255, 255, 0.08);
   --line-dark: rgba(20, 22, 26, 0.1);
@@ -344,7 +344,7 @@ address {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(ellipse 70% 55% at 85% 20%, rgba(232, 106, 26, 0.18), transparent 60%),
+    radial-gradient(ellipse 70% 55% at 85% 20%, rgba(26, 154, 72, 0.18), transparent 60%),
     radial-gradient(ellipse 50% 40% at 10% 80%, rgba(255, 255, 255, 0.04), transparent 55%),
     linear-gradient(160deg, #14161a 0%, #1a1e24 50%, #12141a 100%);
 }
@@ -355,7 +355,7 @@ address {
   bottom: -20%;
   width: 55%;
   height: 140%;
-  background: linear-gradient(125deg, transparent 40%, rgba(232, 106, 26, 0.07) 55%, transparent 70%);
+  background: linear-gradient(125deg, transparent 40%, rgba(26, 154, 72, 0.07) 55%, transparent 70%);
   transform: rotate(-8deg);
 }
 
@@ -391,7 +391,7 @@ address {
 
 .hero-highlight {
   display: block;
-  background: linear-gradient(90deg, var(--amber-bright), #ffb347);
+  background: linear-gradient(90deg, var(--amber-bright), #7ee8a8);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -504,7 +504,7 @@ address {
   display: grid;
   place-items: center;
   border-radius: 10px;
-  background: rgba(232, 106, 26, 0.15);
+  background: rgba(26, 154, 72, 0.15);
   color: var(--amber-bright);
 }
 
@@ -699,8 +699,8 @@ address {
 }
 
 .bento-item:hover {
-  border-color: rgba(232, 106, 26, 0.45);
-  background: rgba(232, 106, 26, 0.06);
+  border-color: rgba(26, 154, 72, 0.45);
+  background: rgba(26, 154, 72, 0.06);
   transform: translateY(-2px);
 }
 
@@ -781,7 +781,7 @@ address {
   display: grid;
   place-items: center;
   border-radius: 8px;
-  background: rgba(232, 106, 26, 0.12);
+  background: rgba(26, 154, 72, 0.12);
   color: var(--amber);
   font-size: 0.8rem;
   font-weight: 700;
@@ -927,7 +927,7 @@ address {
   place-items: center;
   min-height: 280px;
   background:
-    radial-gradient(circle at 50% 45%, rgba(232, 106, 26, 0.2), transparent 55%),
+    radial-gradient(circle at 50% 45%, rgba(26, 154, 72, 0.2), transparent 55%),
     repeating-linear-gradient(
       0deg,
       transparent,
@@ -954,7 +954,7 @@ address {
   position: absolute;
   width: 140px;
   height: 140px;
-  border: 2px dashed rgba(232, 106, 26, 0.35);
+  border: 2px dashed rgba(26, 154, 72, 0.35);
   border-radius: 50%;
   animation: spin 24s linear infinite;
 }
@@ -971,7 +971,7 @@ address {
   background: var(--amber);
   border-radius: 50% 50% 50% 0;
   transform: rotate(-45deg);
-  box-shadow: 0 0 0 8px rgba(232, 106, 26, 0.2);
+  box-shadow: 0 0 0 8px rgba(26, 154, 72, 0.2);
   margin-bottom: 1rem;
 }
 
