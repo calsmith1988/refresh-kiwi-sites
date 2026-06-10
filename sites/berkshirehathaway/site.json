@@ -1,0 +1,9 @@
+{
+  "brandName": "Berkshire Hathaway Inc.",
+  "slug": "berkshirehathaway",
+  "sourceUrl": "https://www.berkshirehathaway.com/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}
