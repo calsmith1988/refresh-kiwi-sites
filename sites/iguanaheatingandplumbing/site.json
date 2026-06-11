@@ -1,0 +1,22 @@
+{
+  "brandName": "Iguana Heating and Plumbing LTD",
+  "slug": "iguanaheatingandplumbing",
+  "sourceUrl": "https://www.iguanaheatingandplumbing.com/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about", "title": "About" },
+    { "path": "/services", "title": "Services" },
+    { "path": "/plumbing-and-heating", "title": "Plumbing and Heating" },
+    { "path": "/boiler-installation", "title": "Boiler Installation" },
+    { "path": "/boiler-repairs-and-servicing", "title": "Boiler Repairs and Servicing" },
+    { "path": "/emergency-callouts", "title": "Emergency Callouts" },
+    { "path": "/bathrooms", "title": "Bathrooms" },
+    { "path": "/blockages", "title": "Blockages" },
+    { "path": "/underfloor-heating", "title": "Underfloor Heating" },
+    { "path": "/commercial", "title": "Commercial" },
+    { "path": "/contact-us", "title": "Contact Us" },
+    { "path": "/helpful-information", "title": "Helpful Information" }
+  ]
+}
