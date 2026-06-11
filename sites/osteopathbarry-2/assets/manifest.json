@@ -81,13 +81,13 @@
     },
     {
       "id": "img-5e8be13a00",
-      "file": "assets/img-cc7d7aa63e.jpg",
-      "url": "/preview/osteopathbarry-2/assets/img-cc7d7aa63e.jpg",
+      "file": "assets/img-48a716270f.jpg",
+      "url": "/preview/osteopathbarry-2/assets/img-48a716270f.jpg",
       "originalUrl": "https://osteopathbarry.co.uk/wp-content/uploads/2024/12/img_3203.jpg?w=1024",
       "contentType": "image/jpeg",
-      "bytes": 222439,
+      "bytes": 216784,
       "source": "remix",
-      "replacedAt": "2026-06-11T13:07:26.000Z",
+      "replacedAt": "2026-06-11T13:10:39.874Z",
       "history": [
         {
           "file": "assets/img-5e8be13a00.jpg",
@@ -96,6 +96,14 @@
           "bytes": 130934,
           "source": "original",
           "createdAt": "2026-06-11T12:31:32.100Z"
+        },
+        {
+          "file": "assets/img-cc7d7aa63e.jpg",
+          "url": "/preview/osteopathbarry-2/assets/img-cc7d7aa63e.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 222439,
+          "source": "remix",
+          "createdAt": "2026-06-11T13:07:26.000Z"
         }
       ]
     },
