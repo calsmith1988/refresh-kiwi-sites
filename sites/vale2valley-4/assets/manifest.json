@@ -5,11 +5,12 @@
   "images": [
     {
       "id": "img-68c12247b0",
-      "file": "assets/img-68c12247b0.png",
-      "url": "/preview/vale2valley-4/assets/img-68c12247b0.png",
+      "file": "assets/img-8825e48dbb.webp",
+      "url": "/preview/vale2valley-4/assets/img-8825e48dbb.webp",
       "originalUrl": "https://www.vale2valley.co.uk/media/images/logo.png",
-      "contentType": "image/png",
-      "bytes": 248223
+      "contentType": "image/webp",
+      "bytes": 15246,
+      "replacedAt": "2026-06-11T12:29:09.250Z"
     },
     {
       "id": "img-f49c97f93e",
