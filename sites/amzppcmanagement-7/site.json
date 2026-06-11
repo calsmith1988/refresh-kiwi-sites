@@ -1,0 +1,9 @@
+{
+  "brandName": "AMZ PPC Management",
+  "slug": "amzppcmanagement-7",
+  "sourceUrl": "https://www.amzppcmanagement.com/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}
