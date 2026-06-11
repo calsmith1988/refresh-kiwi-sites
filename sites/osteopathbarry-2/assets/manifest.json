@@ -5,11 +5,23 @@
   "images": [
     {
       "id": "img-6a9cdc9934",
-      "file": "assets/img-6a9cdc9934.png",
-      "url": "/preview/osteopathbarry-2/assets/img-6a9cdc9934.png",
+      "file": "assets/img-cb3265c12c.png",
+      "url": "/preview/osteopathbarry-2/assets/img-cb3265c12c.png",
       "originalUrl": "https://osteopathbarry.co.uk/wp-content/uploads/2025/06/cropped-the-io-advertising-1.png",
       "contentType": "image/png",
-      "bytes": 52394
+      "bytes": 168432,
+      "source": "upload",
+      "replacedAt": "2026-06-11T13:05:55.935Z",
+      "history": [
+        {
+          "file": "assets/img-6a9cdc9934.png",
+          "url": "/preview/osteopathbarry-2/assets/img-6a9cdc9934.png",
+          "contentType": "image/png",
+          "bytes": 52394,
+          "source": "original",
+          "createdAt": "2026-06-11T12:31:32.100Z"
+        }
+      ]
     },
     {
       "id": "img-6f0323e314",
