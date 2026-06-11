@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "slug": "vale2valley-4",
+  "localizedAt": "2026-06-11T12:07:56.845Z",
+  "images": [
+    {
+      "id": "img-68c12247b0",
+      "file": "assets/img-68c12247b0.png",
+      "url": "/preview/vale2valley-4/assets/img-68c12247b0.png",
+      "originalUrl": "https://www.vale2valley.co.uk/media/images/logo.png",
+      "contentType": "image/png",
+      "bytes": 248223
+    },
+    {
+      "id": "img-f49c97f93e",
+      "file": "assets/img-f49c97f93e.jpg",
+      "url": "/preview/vale2valley-4/assets/img-f49c97f93e.jpg",
+      "originalUrl": "https://www.vale2valley.co.uk/media/images/services-main.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 421575
+    },
+    {
+      "id": "img-73c4343182",
+      "file": "assets/img-73c4343182.jpg",
+      "url": "/preview/vale2valley-4/assets/img-73c4343182.jpg",
+      "originalUrl": "https://www.vale2valley.co.uk/media/images/splash1.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 706905
+    },
+    {
+      "id": "img-8bf5d4904f",
+      "file": "assets/img-8bf5d4904f.jpg",
+      "url": "/preview/vale2valley-4/assets/img-8bf5d4904f.jpg",
+      "originalUrl": "https://www.vale2valley.co.uk/media/images/splash3.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 561087
+    },
+    {
+      "id": "img-122e0f85f0",
+      "file": "assets/img-122e0f85f0.jpg",
+      "url": "/preview/vale2valley-4/assets/img-122e0f85f0.jpg",
+      "originalUrl": "https://www.vale2valley.co.uk/media/images/home2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 422259
+    },
+    {
+      "id": "img-d7775545bf",
+      "file": "assets/img-d7775545bf.jpg",
+      "url": "/preview/vale2valley-4/assets/img-d7775545bf.jpg",
+      "originalUrl": "https://www.vale2valley.co.uk/media/images/home1.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 480483
+    },
+    {
+      "id": "img-16c2e1941c",
+      "file": "assets/img-16c2e1941c.jpg",
+      "url": "/preview/vale2valley-4/assets/img-16c2e1941c.jpg",
+      "originalUrl": "https://www.vale2valley.co.uk/media/images/home3.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 601400
+    },
+    {
+      "id": "img-6f78a4cdb0",
+      "file": "assets/img-6f78a4cdb0.jpg",
+      "url": "/preview/vale2valley-4/assets/img-6f78a4cdb0.jpg",
+      "originalUrl": "https://www.vale2valley.co.uk/media/images/whybox.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1352227
+    },
+    {
+      "id": "img-7e930f15b0",
+      "file": "assets/img-7e930f15b0.jpg",
+      "url": "/preview/vale2valley-4/assets/img-7e930f15b0.jpg",
+      "originalUrl": "https://www.vale2valley.co.uk/media/images/home4.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 440867
+    },
+    {
+      "id": "img-d2964577f3",
+      "file": "assets/img-d2964577f3.jpg",
+      "url": "/preview/vale2valley-4/assets/img-d2964577f3.jpg",
+      "originalUrl": "https://www.vale2valley.co.uk/media/images/splash2.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 771702
+    },
+    {
+      "id": "img-774e53c149",
+      "file": "assets/img-774e53c149.jpg",
+      "url": "/preview/vale2valley-4/assets/img-774e53c149.jpg",
+      "originalUrl": "https://www.vale2valley.co.uk/media/images/splash4.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 647247
+    },
+    {
+      "id": "img-e26f7221c5",
+      "file": "assets/img-e26f7221c5.jpg",
+      "url": "/preview/vale2valley-4/assets/img-e26f7221c5.jpg",
+      "originalUrl": "https://www.vale2valley.co.uk/media/images/quote.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1052504
+    }
+  ]
+}
