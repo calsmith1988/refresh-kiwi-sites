@@ -773,7 +773,7 @@ h3 {
 .review-card {
   margin: 0;
   border-radius: var(--radius);
- overflow: hidden;
+  overflow: hidden;
   box-shadow: var(--shadow-sm);
   transition:
     transform 0.3s var(--ease),
