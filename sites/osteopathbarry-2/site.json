@@ -3,13 +3,24 @@
   "slug": "osteopathbarry-2",
   "sourceUrl": "https://osteopathbarry.co.uk/",
   "pages": [
-    { "path": "/", "title": "Home", "gated": false }
+    { "path": "/", "title": "Home", "gated": false },
+    { "path": "/about", "title": "About", "gated": false },
+    { "path": "/faq", "title": "FAQ", "gated": false },
+    { "path": "/contact", "title": "Contact", "gated": false },
+    { "path": "/pricing", "title": "Services", "gated": false },
+    { "path": "/blog", "title": "Blog", "gated": false }
   ],
   "discoveredPages": [
-    { "path": "/about", "title": "About" },
-    { "path": "/faq", "title": "FAQ" },
-    { "path": "/contact", "title": "Contact" },
-    { "path": "/blog", "title": "Blog" },
-    { "path": "/pricing", "title": "Services" }
+    { "path": "/2026/05/29/benefits-of-osteopathy", "title": "Benefits of Osteopathy" },
+    { "path": "/2025/01/21/what-to-expect-at-your-first-osteopath-visit", "title": "What to Expect at Your First Osteopath Visit" },
+    { "path": "/2025/01/14/osteopathy-vs-chiropractic-key-differences-explained", "title": "Osteopathy vs Chiropractic" },
+    { "path": "/2025/07/30/essential-tips-to-prevent-sports-injuries", "title": "Essential Tips to Prevent Sports Injuries" },
+    { "path": "/2024/12/16/what-is-osteopathy", "title": "What is Osteopathy" },
+    { "path": "/category/pregnancy", "title": "Pregnancy" },
+    { "path": "/category/understanding-osteopathy", "title": "Understanding Osteopathy" },
+    { "path": "/category/common-conditions-and-diseases", "title": "Common Conditions" },
+    { "path": "/category/lifestyle", "title": "Lifestyle" },
+    { "path": "/category/rehabilitation", "title": "Rehabilitation" },
+    { "path": "/category/sports-and-exercise", "title": "Sports and Exercise" }
   ]
 }
