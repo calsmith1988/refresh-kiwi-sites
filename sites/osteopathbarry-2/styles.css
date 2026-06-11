@@ -123,6 +123,23 @@ h3 {
   box-shadow: 0 1px 0 rgba(17, 17, 17, 0.06);
 }
 
+/* White header text over hero */
+.site-header:not(.is-scrolled):not(.site-header--solid) .brand-name,
+.site-header:not(.is-scrolled):not(.site-header--solid) .brand-tag,
+.site-header:not(.is-scrolled):not(.site-header--solid) .nav a,
+.site-header:not(.is-scrolled):not(.site-header--solid) .header-phone {
+  color: var(--white);
+}
+
+.site-header:not(.is-scrolled):not(.site-header--solid) .nav a:hover,
+.site-header:not(.is-scrolled):not(.site-header--solid) .header-phone:hover {
+  color: var(--gold-light);
+}
+
+.site-header:not(.is-scrolled):not(.site-header--solid) .menu-toggle-bar {
+  background: var(--white);
+}
+
 .header-inner {
   display: flex;
   align-items: center;
