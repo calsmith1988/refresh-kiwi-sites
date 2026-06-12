@@ -1,0 +1,18 @@
+{
+  "brandName": "Quantum Healing with Yve",
+  "slug": "quantumhealingwithyve",
+  "sourceUrl": "https://www.quantumhealingwithyve.com/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about", "title": "About Me" },
+    { "path": "/what-is-qhht", "title": "QHHT" },
+    { "path": "/bqh", "title": "BQH" },
+    { "path": "/qhht", "title": "What happens in a Session?" },
+    { "path": "/how-to-prepare-for-qhht-session", "title": "How to prepare for a Session" },
+    { "path": "/faqs", "title": "FAQs" },
+    { "path": "/contact-me", "title": "Contact Me" },
+    { "path": "/resources", "title": "Resources" }
+  ]
+}
