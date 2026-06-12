@@ -1,0 +1,9 @@
+{
+  "brandName": "Foundry Dental Laboratory",
+  "slug": "foundrylab",
+  "sourceUrl": "https://www.foundrylab.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}
