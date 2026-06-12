@@ -1,0 +1,9 @@
+{
+  "brandName": "Foundry Labs",
+  "slug": "foundrylabs",
+  "sourceUrl": "https://www.foundrylabs.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}
