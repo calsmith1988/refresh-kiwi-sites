@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "slug": "foundrylab-2",
+  "localizedAt": "2026-06-16T19:33:01.811Z",
+  "images": [
+    {
+      "id": "img-3cf9c93ca2",
+      "file": "assets/img-3cf9c93ca2.webp",
+      "url": "/preview/foundrylab-2/assets/img-3cf9c93ca2.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/slideshow02-fccd44fd.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 16970
+    },
+    {
+      "id": "img-8c1024aa46",
+      "file": "assets/img-8c1024aa46.webp",
+      "url": "/preview/foundrylab-2/assets/img-8c1024aa46.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/card.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 14632
+    },
+    {
+      "id": "img-72a2b9cf68",
+      "file": "assets/img-72a2b9cf68.webp",
+      "url": "/preview/foundrylab-2/assets/img-72a2b9cf68.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/container06-7bf86372.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 25154
+    },
+    {
+      "id": "img-5b8039d347",
+      "file": "assets/img-5b8039d347.webp",
+      "url": "/preview/foundrylab-2/assets/img-5b8039d347.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/image03.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 20258
+    },
+    {
+      "id": "img-f57e9ebf1e",
+      "file": "assets/img-f57e9ebf1e.webp",
+      "url": "/preview/foundrylab-2/assets/img-f57e9ebf1e.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/image02.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 32036
+    },
+    {
+      "id": "img-99c3fbbd58",
+      "file": "assets/img-99c3fbbd58.webp",
+      "url": "/preview/foundrylab-2/assets/img-99c3fbbd58.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/image01.png?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 51228
+    },
+    {
+      "id": "img-811435b3e4",
+      "file": "assets/img-811435b3e4.webp",
+      "url": "/preview/foundrylab-2/assets/img-811435b3e4.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/slideshow02-0541c15c.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 53922
+    },
+    {
+      "id": "img-7878b6b707",
+      "file": "assets/img-7878b6b707.webp",
+      "url": "/preview/foundrylab-2/assets/img-7878b6b707.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/image05.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 130606
+    },
+    {
+      "id": "img-546ab9202e",
+      "file": "assets/img-546ab9202e.webp",
+      "url": "/preview/foundrylab-2/assets/img-546ab9202e.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/slideshow02-ebe47fe9.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 10016
+    },
+    {
+      "id": "img-ccecc538c0",
+      "file": "assets/img-ccecc538c0.webp",
+      "url": "/preview/foundrylab-2/assets/img-ccecc538c0.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/slideshow02-2dfcd686.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 36856
+    },
+    {
+      "id": "img-c86f6532b2",
+      "file": "assets/img-c86f6532b2.webp",
+      "url": "/preview/foundrylab-2/assets/img-c86f6532b2.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/slideshow01-7b5fc65b.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 5156
+    },
+    {
+      "id": "img-49c3415076",
+      "file": "assets/img-49c3415076.webp",
+      "url": "/preview/foundrylab-2/assets/img-49c3415076.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/slideshow01-5e911e09.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 102320
+    },
+    {
+      "id": "img-ad7d7a983c",
+      "file": "assets/img-ad7d7a983c.webp",
+      "url": "/preview/foundrylab-2/assets/img-ad7d7a983c.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/slideshow01-096d0e15.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 36840
+    },
+    {
+      "id": "img-2b668756d0",
+      "file": "assets/img-2b668756d0.webp",
+      "url": "/preview/foundrylab-2/assets/img-2b668756d0.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/slideshow02-9c22e57a.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 25034
+    },
+    {
+      "id": "img-45528028f2",
+      "file": "assets/img-45528028f2.webp",
+      "url": "/preview/foundrylab-2/assets/img-45528028f2.webp",
+      "originalUrl": "https://foundrylab.co.uk/assets/images/slideshow01-9719d07a.jpg?v=dc0217df",
+      "contentType": "image/webp",
+      "bytes": 70334
+    }
+  ]
+}
