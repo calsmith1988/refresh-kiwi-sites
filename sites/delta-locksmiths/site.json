@@ -1,0 +1,9 @@
+{
+  "brandName": "Delta Locksmiths",
+  "slug": "delta-locksmiths",
+  "sourceUrl": "https://delta-locksmiths.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}
