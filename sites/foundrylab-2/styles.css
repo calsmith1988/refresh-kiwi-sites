@@ -202,7 +202,7 @@ button {
 }
 
 .logo img {
-  height: 3.25rem;
+  height: 4rem;
   width: auto;
 }
 
@@ -1021,6 +1021,10 @@ button {
 @media (max-width: 720px) {
   :root {
     --header-h: 4.25rem;
+  }
+
+  .logo img {
+    height: 3.5rem;
   }
 
   .nav-desktop {
