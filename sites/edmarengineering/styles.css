@@ -356,45 +356,114 @@ a:hover {
   box-shadow: var(--shadow);
 }
 
-.hero-slides {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 3px;
-  background: rgba(0, 0, 0, 0.2);
+.hero-showcase {
+  position: relative;
+  margin: 0;
+  overflow: hidden;
 }
 
-.hero-slides img {
+.hero-showcase img {
   width: 100%;
-  height: 120px;
+  aspect-ratio: 16 / 10;
   object-fit: cover;
 }
 
-.hero-stats {
+.hero-showcase figcaption {
+  position: absolute;
+  inset-inline: 0;
+  bottom: 0;
+  padding: 2.75rem 1.15rem 1.1rem;
+  background: linear-gradient(to top, rgba(0, 20, 12, 0.92), transparent);
+}
+
+.hero-showcase-label {
+  display: block;
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--teal-400);
+  margin-bottom: 0.2rem;
+}
+
+.hero-showcase figcaption strong {
+  display: block;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  color: var(--white);
+  font-weight: 700;
+}
+
+.hero-trust {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1px;
   background: rgba(255, 255, 255, 0.12);
 }
 
-.hero-stats div {
-  padding: 1.1rem 0.75rem;
+.hero-trust-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.65rem;
+  padding: 1rem 0.65rem 1.1rem;
   text-align: center;
   background: rgba(0, 35, 20, 0.55);
 }
 
-.hero-stats strong {
-  display: block;
-  font-size: 1.05rem;
-  color: var(--white);
-  font-weight: 800;
+.hero-trust-visual {
+  width: 52px;
+  height: 52px;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(255, 255, 255, 0.06);
+  flex-shrink: 0;
 }
 
-.hero-stats span {
-  font-size: 0.72rem;
+.hero-trust-visual img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero-trust-visual--badge {
+  padding: 0.35rem;
+  background: var(--white);
+}
+
+.hero-trust-visual--badge img {
+  object-fit: contain;
+}
+
+.hero-trust-visual--icon {
+  display: grid;
+  place-items: center;
+  color: var(--teal-400);
+}
+
+.hero-trust-visual--icon svg {
+  width: 24px;
+  height: 24px;
+}
+
+.hero-trust-copy strong {
+  display: block;
+  font-size: 1rem;
+  color: var(--white);
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.hero-trust-copy span {
+  display: block;
+  margin-top: 0.15rem;
+  font-size: 0.68rem;
   font-family: var(--mono);
   text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: rgba(255, 255, 255, 0.6);
+  letter-spacing: 0.05em;
+  color: rgba(255, 255, 255, 0.58);
+  line-height: 1.35;
 }
 
 /* Trust strip */
@@ -779,16 +848,18 @@ a:hover {
     --header-h: 72px;
   }
 
-  .hero-slides {
+  .hero-trust {
     grid-template-columns: 1fr;
   }
 
-  .hero-slides img {
-    height: 140px;
+  .hero-trust-item {
+    flex-direction: row;
+    text-align: left;
+    padding: 0.9rem 1rem;
   }
 
-  .hero-stats {
-    grid-template-columns: 1fr;
+  .hero-trust-copy span {
+    font-size: 0.72rem;
   }
 
   .trust-strip-inner {
