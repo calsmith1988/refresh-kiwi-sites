@@ -1,0 +1,16 @@
+{
+  "brandName": "Naunton Jones Le Masurier",
+  "slug": "njlm",
+  "sourceUrl": "https://www.njlm.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about-us", "title": "About us" },
+    { "path": "/services", "title": "Services" },
+    { "path": "/factsheets", "title": "Factsheets" },
+    { "path": "/resources", "title": "Resources" },
+    { "path": "/news", "title": "News" },
+    { "path": "/contact-us", "title": "Contact us" }
+  ]
+}
