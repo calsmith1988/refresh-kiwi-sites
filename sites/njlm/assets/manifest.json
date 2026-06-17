@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "slug": "njlm",
+  "localizedAt": "2026-06-17T12:06:22.993Z",
+  "images": [
+    {
+      "id": "img-1ee0cd4e38",
+      "file": "assets/img-1ee0cd4e38.png",
+      "url": "/preview/njlm/assets/img-1ee0cd4e38.png",
+      "originalUrl": "https://www.njlm.co.uk/img/logo-light.png",
+      "contentType": "image/png",
+      "bytes": 8877
+    },
+    {
+      "id": "img-674afb9543",
+      "file": "assets/img-674afb9543.webp",
+      "url": "/preview/njlm/assets/img-674afb9543.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/home-investment-cta.jpg",
+      "contentType": "image/webp",
+      "bytes": 6358
+    },
+    {
+      "id": "img-760a5ca504",
+      "file": "assets/img-760a5ca504.webp",
+      "url": "/preview/njlm/assets/img-760a5ca504.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/acca.png",
+      "contentType": "image/webp",
+      "bytes": 1430
+    },
+    {
+      "id": "img-53b2823ad5",
+      "file": "assets/img-53b2823ad5.webp",
+      "url": "/preview/njlm/assets/img-53b2823ad5.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/acca-practising.png",
+      "contentType": "image/webp",
+      "bytes": 2724
+    },
+    {
+      "id": "img-d4b1ccd1d5",
+      "file": "assets/img-d4b1ccd1d5.webp",
+      "url": "/preview/njlm/assets/img-d4b1ccd1d5.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/acca-approved.png",
+      "contentType": "image/webp",
+      "bytes": 2784
+    },
+    {
+      "id": "img-dea1dd0c94",
+      "file": "assets/img-dea1dd0c94.webp",
+      "url": "/preview/njlm/assets/img-dea1dd0c94.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/home-barrister-cta.jpg",
+      "contentType": "image/webp",
+      "bytes": 29524
+    },
+    {
+      "id": "img-31ab730ed6",
+      "file": "assets/img-31ab730ed6.webp",
+      "url": "/preview/njlm/assets/img-31ab730ed6.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/home-service-cta.jpg",
+      "contentType": "image/webp",
+      "bytes": 17006
+    },
+    {
+      "id": "img-da9198edb4",
+      "file": "assets/img-da9198edb4.svg",
+      "url": "/preview/njlm/assets/img-da9198edb4.svg",
+      "originalUrl": "https://cdn.clientzone.com/images/accreditation/icaew-b-r.svg",
+      "contentType": "image/svg+xml",
+      "bytes": 20191
+    },
+    {
+      "id": "img-a31a11928c",
+      "file": "assets/img-a31a11928c.webp",
+      "url": "/preview/njlm/assets/img-a31a11928c.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/sage.png",
+      "contentType": "image/webp",
+      "bytes": 2576
+    },
+    {
+      "id": "img-9bc0dfa7ef",
+      "file": "assets/img-9bc0dfa7ef.webp",
+      "url": "/preview/njlm/assets/img-9bc0dfa7ef.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/free-agent.png",
+      "contentType": "image/webp",
+      "bytes": 2224
+    },
+    {
+      "id": "img-fd3bbed9bc",
+      "file": "assets/img-fd3bbed9bc.webp",
+      "url": "/preview/njlm/assets/img-fd3bbed9bc.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/xero.png",
+      "contentType": "image/webp",
+      "bytes": 5492
+    },
+    {
+      "id": "img-0883a6cef0",
+      "file": "assets/img-0883a6cef0.webp",
+      "url": "/preview/njlm/assets/img-0883a6cef0.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/home-cta-doctor.jpg",
+      "contentType": "image/webp",
+      "bytes": 12414
+    },
+    {
+      "id": "img-ec3d5663ef",
+      "file": "assets/img-ec3d5663ef.webp",
+      "url": "/preview/njlm/assets/img-ec3d5663ef.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/home-cta-trusts.jpg",
+      "contentType": "image/webp",
+      "bytes": 22894
+    },
+    {
+      "id": "img-9148238db0",
+      "file": "assets/img-9148238db0.webp",
+      "url": "/preview/njlm/assets/img-9148238db0.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/home-news-cta.jpg",
+      "contentType": "image/webp",
+      "bytes": 21228
+    },
+    {
+      "id": "img-e86c8b74cd",
+      "file": "assets/img-e86c8b74cd.png",
+      "url": "/preview/njlm/assets/img-e86c8b74cd.png",
+      "originalUrl": "https://www.njlm.co.uk/img/logo.png",
+      "contentType": "image/png",
+      "bytes": 4819
+    },
+    {
+      "id": "img-cb647e2685",
+      "file": "assets/img-cb647e2685.webp",
+      "url": "/preview/njlm/assets/img-cb647e2685.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/solicitor-home-cta.jpg",
+      "contentType": "image/webp",
+      "bytes": 17838
+    },
+    {
+      "id": "img-88481910ca",
+      "file": "assets/img-88481910ca.webp",
+      "url": "/preview/njlm/assets/img-88481910ca.webp",
+      "originalUrl": "https://www.njlm.co.uk/img/home-construction.jpg",
+      "contentType": "image/webp",
+      "bytes": 37558
+    }
+  ]
+}
