@@ -37,13 +37,13 @@
     },
     {
       "id": "img-e9192161de",
-      "file": "assets/img-2475d06f28.webp",
-      "url": "/preview/edmarengineering/assets/img-2475d06f28.webp",
+      "file": "assets/img-29bd7a62e7.webp",
+      "url": "/preview/edmarengineering/assets/img-29bd7a62e7.webp",
       "originalUrl": "https://edmarengineering.co.uk/wp-content/uploads/2016/07/header-5.jpg",
       "contentType": "image/webp",
-      "bytes": 9762,
-      "source": "upload",
-      "replacedAt": "2026-06-17T12:14:49.933Z",
+      "bytes": 1544950,
+      "source": "remix",
+      "replacedAt": "2026-06-17T12:16:02.488Z",
       "history": [
         {
           "file": "assets/img-e9192161de.webp",
@@ -52,6 +52,14 @@
           "bytes": 53348,
           "source": "original",
           "createdAt": "2026-06-17T12:12:52.899Z"
+        },
+        {
+          "file": "assets/img-2475d06f28.webp",
+          "url": "/preview/edmarengineering/assets/img-2475d06f28.webp",
+          "contentType": "image/webp",
+          "bytes": 9762,
+          "source": "upload",
+          "createdAt": "2026-06-17T12:14:49.933Z"
         }
       ]
     },
