@@ -1,0 +1,16 @@
+{
+  "brandName": "Edmar Engineering",
+  "slug": "edmarengineering",
+  "sourceUrl": "https://edmarengineering.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/services", "title": "Services" },
+    { "path": "/plant-list", "title": "Plant List" },
+    { "path": "/gallery", "title": "Gallery" },
+    { "path": "/contact", "title": "Contact" },
+    { "path": "/edmar-news", "title": "Edmar News" },
+    { "path": "/engineering-news", "title": "Industry News" }
+  ]
+}
