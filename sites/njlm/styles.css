@@ -275,13 +275,18 @@ em {
   position: relative;
   overflow: hidden;
   padding: clamp(3rem, 7vw, 5.5rem) 0 clamp(3.5rem, 6vw, 5rem);
-  background: linear-gradient(155deg, #faf8f5 0%, #f0ece6 55%, #ebe6df 100%);
 }
 
 .hero-backdrop {
   position: absolute;
   inset: 0;
   pointer-events: none;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(155deg, #faf8f5 0%, #f0ece6 55%, #ebe6df 100%);
 }
 
 .hero-grid {
@@ -296,6 +301,7 @@ em {
 
 .hero-layout {
   position: relative;
+  z-index: 1;
   display: grid;
   grid-template-columns: 1fr 1.05fr;
   gap: clamp(2rem, 5vw, 4rem);
