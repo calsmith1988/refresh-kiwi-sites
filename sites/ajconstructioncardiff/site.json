@@ -1,0 +1,22 @@
+{
+  "brandName": "AJ Construction Cardiff",
+  "slug": "ajconstructioncardiff",
+  "sourceUrl": "https://ajconstructioncardiff.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about", "title": "About" },
+    { "path": "/contact", "title": "Contact" },
+    { "path": "/our-work", "title": "Our Work" },
+    { "path": "/cost-calculator", "title": "Cost Calculator" },
+    { "path": "/general-building-extensions", "title": "General Building & Extensions" },
+    { "path": "/garage-conversions", "title": "Garage Conversions" },
+    { "path": "/loft-conversions", "title": "Loft Conversions" },
+    { "path": "/bathrooms", "title": "Bathrooms" },
+    { "path": "/kitchens", "title": "Kitchens" },
+    { "path": "/landscaping-garden-rooms", "title": "Landscaping & Garden Rooms" },
+    { "path": "/property-maintenance", "title": "Property Maintenance" },
+    { "path": "/hmo-conversions-cardiff", "title": "HMO Conversions" }
+  ]
+}
