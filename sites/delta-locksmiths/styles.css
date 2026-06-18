@@ -5,8 +5,8 @@
 }
 
 :root {
-  --orange: #fd9800;
-  --orange-dark: #e98c00;
+  --brown: #8F6B3E;
+  --brown-dark: #6B4E23;
   --navy: #0f172a;
   --slate: #454f5e;
   --cream: #fef9e1;
@@ -86,7 +86,7 @@ p {
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--orange-dark);
+  color: var(--brown-dark);
   margin-bottom: 0.75rem;
 }
 
@@ -115,14 +115,14 @@ p {
 }
 
 .btn-primary {
-  background: var(--orange);
+  background: var(--brown);
   color: var(--navy);
-  box-shadow: 0 10px 28px rgba(253, 152, 0, 0.35);
+  box-shadow: 0 10px 28px rgba(143, 107, 62, 0.35);
 }
 
 .btn-primary:hover {
-  background: var(--orange-dark);
-  box-shadow: 0 14px 34px rgba(233, 140, 0, 0.4);
+  background: var(--brown-dark);
+  box-shadow: 0 14px 34px rgba(107, 78, 35, 0.4);
 }
 
 .btn-secondary {
@@ -138,15 +138,15 @@ p {
 }
 
 .btn-call {
-  background: rgba(253, 152, 0, 0.15);
+  background: rgba(143, 107, 62, 0.15);
   color: var(--navy);
-  border-color: rgba(253, 152, 0, 0.45);
+  border-color: rgba(143, 107, 62, 0.45);
   padding: 0.65rem 1.1rem;
   font-size: 0.85rem;
 }
 
 .btn-call:hover {
-  background: var(--orange);
+  background: var(--brown);
 }
 
 .btn-light {
@@ -167,7 +167,7 @@ p {
   flex-wrap: wrap;
   gap: 0.65rem 1rem;
   padding: 0.55rem 1rem;
-  background: var(--orange);
+  background: var(--brown);
   color: var(--navy);
   font-size: 0.86rem;
   font-weight: 600;
@@ -248,7 +248,7 @@ p {
   bottom: -4px;
   width: 100%;
   height: 2px;
-  background: var(--orange);
+  background: var(--brown);
   transform: scaleX(0);
   transform-origin: left;
   transition: transform 0.25s ease;
@@ -275,7 +275,7 @@ p {
   margin-left: auto;
   border: none;
   border-radius: 10px;
-  background: rgba(253, 152, 0, 0.15);
+  background: rgba(143, 107, 62, 0.15);
   cursor: pointer;
 }
 
@@ -314,7 +314,7 @@ p {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(ellipse 80% 60% at 70% 20%, rgba(253, 152, 0, 0.18), transparent 60%),
+    radial-gradient(ellipse 80% 60% at 70% 20%, rgba(143, 107, 62, 0.18), transparent 60%),
     linear-gradient(180deg, rgba(254, 249, 225, 0.35) 0%, var(--cream) 85%);
 }
 
@@ -338,7 +338,7 @@ p {
 
 .hero-copy h1 em {
   font-style: italic;
-  color: var(--orange-dark);
+  color: var(--brown-dark);
 }
 
 .hero-lead {
@@ -468,7 +468,7 @@ p {
   width: 28px;
   height: 28px;
   flex-shrink: 0;
-  color: var(--orange-dark);
+  color: var(--brown-dark);
   margin-top: 0.15rem;
 }
 
@@ -511,7 +511,7 @@ p {
 }
 
 .section-head-light .eyebrow {
-  color: var(--orange);
+  color: var(--brown);
 }
 
 /* Services */
@@ -581,7 +581,7 @@ p {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: var(--orange);
+  background: var(--brown);
 }
 
 .service-list {
@@ -606,7 +606,7 @@ p {
   padding: 0.5rem 0.9rem;
   border-radius: 999px;
   background: var(--cream);
-  border: 1px solid rgba(253, 152, 0, 0.25);
+  border: 1px solid rgba(143, 107, 62, 0.25);
   font-size: 0.86rem;
   font-weight: 600;
   color: var(--navy);
@@ -614,8 +614,8 @@ p {
 }
 
 .chip-grid span:hover {
-  background: rgba(253, 152, 0, 0.12);
-  border-color: var(--orange);
+  background: rgba(143, 107, 62, 0.12);
+  border-color: var(--brown);
 }
 
 /* Gallery */
@@ -728,7 +728,7 @@ p {
   right: 1rem;
   padding: 1rem 1.15rem;
   border-radius: var(--radius-sm);
-  background: var(--orange);
+  background: var(--brown);
   color: var(--navy);
   text-align: center;
   box-shadow: var(--shadow-soft);
@@ -778,8 +778,8 @@ p {
   display: grid;
   place-items: center;
   border-radius: 12px;
-  background: rgba(253, 152, 0, 0.15);
-  color: var(--orange);
+  background: rgba(143, 107, 62, 0.15);
+  color: var(--brown);
   margin-bottom: 1rem;
 }
 
@@ -802,7 +802,7 @@ p {
 /* CTA band */
 .cta-band {
   padding: clamp(3rem, 6vw, 4.5rem) 0;
-  background: linear-gradient(135deg, var(--orange) 0%, var(--orange-dark) 100%);
+  background: linear-gradient(135deg, var(--brown) 0%, var(--brown-dark) 100%);
   color: var(--navy);
 }
 
@@ -844,7 +844,7 @@ p {
 
 .footer-phone {
   font-weight: 700;
-  color: var(--orange);
+  color: var(--brown);
 }
 
 .footer-phone:hover {
