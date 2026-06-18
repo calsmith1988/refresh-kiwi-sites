@@ -3,9 +3,13 @@
   const menuBtn = document.querySelector('.menu-btn');
   const nav = document.querySelector('.nav');
 
-  window.addEventListener('scroll', function () {
-    header.classList.toggle('is-scrolled', window.scrollY > 40);
-  }, { passive: true });
+  if (header && !header.classList.contains('header--inner')) {
+    window.addEventListener('scroll', function () {
+      header.classList.toggle('is-scrolled', window.scrollY > 40);
+    }, { passive: true });
+  } else if (header) {
+    header.classList.add('is-scrolled');
+  }
 
   if (menuBtn && nav) {
     menuBtn.addEventListener('click', function () {
