@@ -3,14 +3,16 @@
   "slug": "vale2valley-6",
   "sourceUrl": "https://www.vale2valley.co.uk/",
   "pages": [
-    { "path": "/", "title": "Home", "gated": false }
+    { "path": "/", "title": "Home", "gated": false },
+    { "path": "/privacy-policy", "title": "Privacy Policy", "gated": false },
+    { "path": "/cookie-policy", "title": "Cookie Policy", "gated": false },
+    { "path": "/terms", "title": "Terms and Conditions", "gated": false }
   ],
   "discoveredPages": [
     { "path": "/about-us", "title": "About Us" },
     { "path": "/services", "title": "Services" },
     { "path": "/gallery", "title": "Gallery" },
     { "path": "/reviews", "title": "Reviews" },
-    { "path": "/privacy-policy", "title": "Privacy Policy" },
     { "path": "/send-an-enquiry", "title": "Send An Enquiry" }
   ]
 }
