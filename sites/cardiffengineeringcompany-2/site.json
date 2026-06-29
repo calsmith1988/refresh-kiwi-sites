@@ -1,0 +1,17 @@
+{
+  "brandName": "Cardiff Engineering Company LTD.",
+  "slug": "cardiffengineeringcompany-2",
+  "sourceUrl": "https://cardiffengineeringcompany.com/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about-us", "title": "About Us" },
+    { "path": "/services", "title": "Services" },
+    { "path": "/contact-us", "title": "Contact Us" },
+    { "path": "/the-team", "title": "The Team" },
+    { "path": "/job-opportunities", "title": "Job Opportunities" },
+    { "path": "/our-clients---partners", "title": "Our Clients / Partners" },
+    { "path": "/projects", "title": "Projects" }
+  ]
+}
