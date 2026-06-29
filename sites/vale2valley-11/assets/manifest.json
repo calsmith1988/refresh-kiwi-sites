@@ -1,16 +1,8 @@
 {
   "version": 1,
   "slug": "vale2valley-11",
-  "localizedAt": "2026-06-29T14:32:09.238Z",
+  "localizedAt": "2026-06-29T14:38:38.771Z",
   "images": [
-    {
-      "id": "img-93be88a2e8",
-      "file": "assets/img-93be88a2e8.webp",
-      "url": "/preview/vale2valley-11/assets/img-93be88a2e8.webp",
-      "originalUrl": "https://vale2valley.co.uk/media/images/logo.png",
-      "contentType": "image/webp",
-      "bytes": 19548
-    },
     {
       "id": "img-531a3bdedd",
       "file": "assets/img-531a3bdedd.webp",
@@ -20,20 +12,100 @@
       "bytes": 81016
     },
     {
-      "id": "img-98f870387a",
-      "file": "assets/img-98f870387a.webp",
-      "url": "/preview/vale2valley-11/assets/img-98f870387a.webp",
-      "originalUrl": "https://vale2valley.co.uk/media/images/splash5.jpg",
+      "id": "img-785a31cea6",
+      "file": "assets/img-785a31cea6.webp",
+      "url": "/preview/vale2valley-11/assets/img-785a31cea6.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/whybox.jpg",
       "contentType": "image/webp",
-      "bytes": 65576
+      "bytes": 119044
     },
     {
-      "id": "img-691c41406c",
-      "file": "assets/img-691c41406c.webp",
-      "url": "/preview/vale2valley-11/assets/img-691c41406c.webp",
-      "originalUrl": "https://vale2valley.co.uk/media/images/splash4.jpg",
+      "id": "img-93be88a2e8",
+      "file": "assets/img-93be88a2e8.webp",
+      "url": "/preview/vale2valley-11/assets/img-93be88a2e8.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/logo.png",
       "contentType": "image/webp",
-      "bytes": 94914
+      "bytes": 19548
+    },
+    {
+      "id": "img-99dbfbcfac",
+      "file": "assets/img-99dbfbcfac.webp",
+      "url": "/preview/vale2valley-11/assets/img-99dbfbcfac.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/quotemain.jpg",
+      "contentType": "image/webp",
+      "bytes": 47922
+    },
+    {
+      "id": "img-ebf21a93cc",
+      "file": "assets/img-ebf21a93cc.webp",
+      "url": "/preview/vale2valley-11/assets/img-ebf21a93cc.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/services-main.jpg",
+      "contentType": "image/webp",
+      "bytes": 66432
+    },
+    {
+      "id": "img-6126d07672",
+      "file": "assets/img-6126d07672.webp",
+      "url": "/preview/vale2valley-11/assets/img-6126d07672.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/services.jpg",
+      "contentType": "image/webp",
+      "bytes": 51652
+    },
+    {
+      "id": "img-badc410850",
+      "file": "assets/img-badc410850.webp",
+      "url": "/preview/vale2valley-11/assets/img-badc410850.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/contact.jpg",
+      "contentType": "image/webp",
+      "bytes": 123110
+    },
+    {
+      "id": "img-92882830ff",
+      "file": "assets/img-92882830ff.webp",
+      "url": "/preview/vale2valley-11/assets/img-92882830ff.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/gallery.jpg",
+      "contentType": "image/webp",
+      "bytes": 27526
+    },
+    {
+      "id": "img-1807e232f6",
+      "file": "assets/img-1807e232f6.webp",
+      "url": "/preview/vale2valley-11/assets/img-1807e232f6.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/reviews.jpg",
+      "contentType": "image/webp",
+      "bytes": 153432
+    },
+    {
+      "id": "img-85dd2418af",
+      "file": "assets/img-85dd2418af.webp",
+      "url": "/preview/vale2valley-11/assets/img-85dd2418af.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/quote.jpg",
+      "contentType": "image/webp",
+      "bytes": 62868
+    },
+    {
+      "id": "img-e6d84fc665",
+      "file": "assets/img-e6d84fc665.webp",
+      "url": "/preview/vale2valley-11/assets/img-e6d84fc665.webp",
+      "originalUrl": "https://vale2valley.co.uk/galleries/gallery/PHOTO-2024-08-16-15-06-58%20(1)_6109.jpg",
+      "contentType": "image/webp",
+      "bytes": 104968
+    },
+    {
+      "id": "img-8e510b19da",
+      "file": "assets/img-8e510b19da.webp",
+      "url": "/preview/vale2valley-11/assets/img-8e510b19da.webp",
+      "originalUrl": "https://vale2valley.co.uk/galleries/gallery/PHOTO-2024-08-16-15-06-58%20(2)_6564.jpg",
+      "contentType": "image/webp",
+      "bytes": 151222
+    },
+    {
+      "id": "img-565a541cf4",
+      "file": "assets/img-565a541cf4.webp",
+      "url": "/preview/vale2valley-11/assets/img-565a541cf4.webp",
+      "originalUrl": "https://vale2valley.co.uk/galleries/gallery/PHOTO-2024-08-16-15-06-58%20(3)_4886.jpg",
+      "contentType": "image/webp",
+      "bytes": 246324
     },
     {
       "id": "img-667168d6b0",
@@ -44,14 +116,6 @@
       "bytes": 75588
     },
     {
-      "id": "img-24c63dcab3",
-      "file": "assets/img-24c63dcab3.webp",
-      "url": "/preview/vale2valley-11/assets/img-24c63dcab3.webp",
-      "originalUrl": "https://vale2valley.co.uk/media/images/splash3.jpg",
-      "contentType": "image/webp",
-      "bytes": 56620
-    },
-    {
       "id": "img-309b9c6530",
       "file": "assets/img-309b9c6530.webp",
       "url": "/preview/vale2valley-11/assets/img-309b9c6530.webp",
@@ -60,20 +124,12 @@
       "bytes": 58170
     },
     {
-      "id": "img-55586aceb5",
-      "file": "assets/img-55586aceb5.webp",
-      "url": "/preview/vale2valley-11/assets/img-55586aceb5.webp",
-      "originalUrl": "https://vale2valley.co.uk/media/images/splash2.jpg",
+      "id": "img-0cddb3b5f8",
+      "file": "assets/img-0cddb3b5f8.webp",
+      "url": "/preview/vale2valley-11/assets/img-0cddb3b5f8.webp",
+      "originalUrl": "https://vale2valley.co.uk/galleries/gallery/PHOTO-2024-08-16-15-06-58_8793.jpg",
       "contentType": "image/webp",
-      "bytes": 153166
-    },
-    {
-      "id": "img-785a31cea6",
-      "file": "assets/img-785a31cea6.webp",
-      "url": "/preview/vale2valley-11/assets/img-785a31cea6.webp",
-      "originalUrl": "https://vale2valley.co.uk/media/images/whybox.jpg",
-      "contentType": "image/webp",
-      "bytes": 119044
+      "bytes": 241640
     },
     {
       "id": "img-8aa7b90481",
@@ -92,12 +148,52 @@
       "bytes": 73286
     },
     {
-      "id": "img-85dd2418af",
-      "file": "assets/img-85dd2418af.webp",
-      "url": "/preview/vale2valley-11/assets/img-85dd2418af.webp",
-      "originalUrl": "https://vale2valley.co.uk/media/images/quote.jpg",
+      "id": "img-55586aceb5",
+      "file": "assets/img-55586aceb5.webp",
+      "url": "/preview/vale2valley-11/assets/img-55586aceb5.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/splash2.jpg",
       "contentType": "image/webp",
-      "bytes": 62868
+      "bytes": 153166
+    },
+    {
+      "id": "img-24c63dcab3",
+      "file": "assets/img-24c63dcab3.webp",
+      "url": "/preview/vale2valley-11/assets/img-24c63dcab3.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/splash3.jpg",
+      "contentType": "image/webp",
+      "bytes": 56620
+    },
+    {
+      "id": "img-691c41406c",
+      "file": "assets/img-691c41406c.webp",
+      "url": "/preview/vale2valley-11/assets/img-691c41406c.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/splash4.jpg",
+      "contentType": "image/webp",
+      "bytes": 94914
+    },
+    {
+      "id": "img-98f870387a",
+      "file": "assets/img-98f870387a.webp",
+      "url": "/preview/vale2valley-11/assets/img-98f870387a.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/splash5.jpg",
+      "contentType": "image/webp",
+      "bytes": 65576
+    },
+    {
+      "id": "img-6d1d1fa372",
+      "file": "assets/img-6d1d1fa372.webp",
+      "url": "/preview/vale2valley-11/assets/img-6d1d1fa372.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/faq.jpg",
+      "contentType": "image/webp",
+      "bytes": 66012
+    },
+    {
+      "id": "img-1fbab340ef",
+      "file": "assets/img-1fbab340ef.webp",
+      "url": "/preview/vale2valley-11/assets/img-1fbab340ef.webp",
+      "originalUrl": "https://vale2valley.co.uk/media/images/header.jpg",
+      "contentType": "image/webp",
+      "bytes": 180094
     }
   ]
 }
