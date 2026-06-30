@@ -1,0 +1,9 @@
+{
+  "brandName": "Calum Electricals",
+  "slug": "create-a-website-for-my-3",
+  "sourceUrl": null,
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}
