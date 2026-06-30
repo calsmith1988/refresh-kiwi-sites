@@ -1,0 +1,15 @@
+{
+  "brandName": "MotionSites",
+  "slug": "motionsites-2",
+  "sourceUrl": "https://motionsites.ai/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/sections", "title": "Sections" },
+    { "path": "/backgrounds", "title": "Backgrounds" },
+    { "path": "/pricing", "title": "Pricing" },
+    { "path": "/public-contact", "title": "Contact" },
+    { "path": "/unlimited", "title": "Go Unlimited" }
+  ]
+}
