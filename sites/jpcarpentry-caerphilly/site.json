@@ -1,0 +1,15 @@
+{
+  "brandName": "J P Carpentry",
+  "slug": "jpcarpentry-caerphilly",
+  "sourceUrl": "https://www.jpcarpentry-caerphilly.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/Carpentry", "title": "Carpentry" },
+    { "path": "/kitchen-pages", "title": "Kitchens" },
+    { "path": "/fitted-furniture", "title": "Fitted Bedroom Furniture" },
+    { "path": "/gallery", "title": "Gallery" },
+    { "path": "/contact", "title": "Contact" }
+  ]
+}
