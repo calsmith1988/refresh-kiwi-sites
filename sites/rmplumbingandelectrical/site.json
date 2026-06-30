@@ -1,0 +1,18 @@
+{
+  "brandName": "RM Plumbing & Electrical",
+  "slug": "rmplumbingandelectrical",
+  "sourceUrl": "https://rmplumbingandelectrical.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/emergency-plumber-cardiff/", "title": "Emergency Plumbers" },
+    { "path": "/services/electrician-in-cardiff/", "title": "Electricians" },
+    { "path": "/services/boiler-installations-cardiff/", "title": "Boiler Installs" },
+    { "path": "/services/bathroom-fitters-cardiff/", "title": "Bathroom Fitters" },
+    { "path": "/services/kitchen-fitters-cardiff/", "title": "Kitchen Fitters" },
+    { "path": "/testimonials/", "title": "Reviews" },
+    { "path": "/contact-us/", "title": "Contact Us" },
+    { "path": "/make-a-payment/", "title": "Pay Online" }
+  ]
+}
