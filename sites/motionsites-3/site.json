@@ -1,0 +1,18 @@
+{
+  "brandName": "MotionSites",
+  "slug": "motionsites-3",
+  "sourceUrl": "https://motionsites.ai/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/sections", "title": "Sections" },
+    { "path": "/backgrounds", "title": "Backgrounds" },
+    { "path": "/gradients", "title": "Gradients" },
+    { "path": "/templates", "title": "Templates" },
+    { "path": "/pricing", "title": "Pricing" },
+    { "path": "/unlimited", "title": "Go Unlimited" },
+    { "path": "/public-contact", "title": "Contact" },
+    { "path": "/affiliates", "title": "Affiliates" }
+  ]
+}
