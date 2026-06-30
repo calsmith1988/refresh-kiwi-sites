@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "slug": "jpcarpentry-caerphilly",
+  "localizedAt": "2026-06-30T19:37:49.694Z",
+  "images": [
+    {
+      "id": "img-b2a7176f62",
+      "file": "assets/img-b2a7176f62.webp",
+      "url": "/preview/jpcarpentry-caerphilly/assets/img-b2a7176f62.webp",
+      "originalUrl": "https://lirp.cdn-website.com/9eebf055/dms3rep/multi/opt/Home-support-1-466x300-1920w.jpg",
+      "contentType": "image/webp",
+      "bytes": 30770
+    },
+    {
+      "id": "img-9c6ae8bbe2",
+      "file": "assets/img-9c6ae8bbe2.webp",
+      "url": "/preview/jpcarpentry-caerphilly/assets/img-9c6ae8bbe2.webp",
+      "originalUrl": "https://lirp.cdn-website.com/9eebf055/dms3rep/multi/opt/Home-support-2-466x300-1920w.jpg",
+      "contentType": "image/webp",
+      "bytes": 13322
+    },
+    {
+      "id": "img-e166ae3d67",
+      "file": "assets/img-e166ae3d67.webp",
+      "url": "/preview/jpcarpentry-caerphilly/assets/img-e166ae3d67.webp",
+      "originalUrl": "https://lirp.cdn-website.com/9eebf055/dms3rep/multi/opt/Home-hero-1280x600-2880w.jpg",
+      "contentType": "image/webp",
+      "bytes": 72208
+    },
+    {
+      "id": "img-60a4a27957",
+      "file": "assets/img-60a4a27957.webp",
+      "url": "/preview/jpcarpentry-caerphilly/assets/img-60a4a27957.webp",
+      "originalUrl": "https://lirp.cdn-website.com/9eebf055/dms3rep/multi/opt/769031pre_ea67dda3c07678b-292w.jpg",
+      "contentType": "image/webp",
+      "bytes": 5084
+    },
+    {
+      "id": "img-6f7f89bf3f",
+      "file": "assets/img-6f7f89bf3f.png",
+      "url": "/preview/jpcarpentry-caerphilly/assets/img-6f7f89bf3f.png",
+      "originalUrl": "https://lirp.cdn-website.com/9eebf055/dms3rep/multi/opt/Logo-400x140_Y17lSwsYSqGznHdr8GsQ-400x140-512w.png",
+      "contentType": "image/png",
+      "bytes": 3404
+    }
+  ]
+}
