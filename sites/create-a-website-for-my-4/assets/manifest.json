@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "slug": "create-a-website-for-my-4",
+  "localizedAt": "2026-07-01T14:47:54.380Z",
+  "images": [
+    {
+      "id": "seed-logo",
+      "role": "logo",
+      "file": "assets/logo-d3a23cb4dd.webp",
+      "url": "/preview/create-a-website-for-my-4/assets/logo-d3a23cb4dd.webp",
+      "originalUrl": "/preview/create-a-website-for-my-4/assets/logo-d3a23cb4dd.webp",
+      "contentType": "image/webp",
+      "bytes": 41284,
+      "source": "upload",
+      "replacedAt": "2026-07-01T14:47:54.380Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-da96e321a2.webp",
+      "url": "/preview/create-a-website-for-my-4/assets/img-da96e321a2.webp",
+      "originalUrl": "/preview/create-a-website-for-my-4/assets/img-da96e321a2.webp",
+      "contentType": "image/webp",
+      "bytes": 113652,
+      "source": "upload",
+      "replacedAt": "2026-07-01T14:47:54.380Z"
+    }
+  ]
+}
