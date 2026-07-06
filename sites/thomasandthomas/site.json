@@ -1,0 +1,9 @@
+{
+  "brandName": "Thomas & Thomas",
+  "slug": "thomasandthomas",
+  "sourceUrl": "https://thomasandthomas.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}
