@@ -1,0 +1,20 @@
+{
+  "brandName": "Central Group",
+  "slug": "centralroofing",
+  "sourceUrl": "https://centralroofing.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about-us", "title": "About Us" },
+    { "path": "/roofing-cladding", "title": "Roofing & Cladding" },
+    { "path": "/other-services", "title": "Other Services" },
+    { "path": "/our-work", "title": "Our Work" },
+    { "path": "/quality-safety", "title": "Quality & Safety" },
+    { "path": "/our-offices", "title": "Our Offices" },
+    { "path": "/delivering-responsibly", "title": "Delivering Responsibly" },
+    { "path": "/careers", "title": "Careers" },
+    { "path": "/contact-us", "title": "Contact Us" },
+    { "path": "/news", "title": "Central Group News" }
+  ]
+}
