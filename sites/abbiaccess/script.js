@@ -1,33 +1,43 @@
 (function () {
   const header = document.getElementById('site-header');
+  const topBar = document.querySelector('.top-bar');
   const menuToggle = document.querySelector('.menu-toggle');
   const mobileNav = document.getElementById('mobile-nav');
   const dropdownItem = document.querySelector('.nav-item.has-dropdown');
   const dropdownToggle = document.querySelector('.nav-dropdown-toggle');
+
+  function setTopBarHeight() {
+    if (!topBar) return;
+    document.documentElement.style.setProperty('--top-bar-h', topBar.offsetHeight + 'px');
+  }
 
   function onScroll() {
     if (!header) return;
     header.classList.toggle('is-scrolled', window.scrollY > 60);
   }
 
+  function setMenuOpen(open) {
+    if (!menuToggle || !mobileNav || !header) return;
+    menuToggle.setAttribute('aria-expanded', String(open));
+    menuToggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    mobileNav.hidden = !open;
+    header.classList.toggle('is-menu-open', open);
+    document.body.style.overflow = open ? 'hidden' : '';
+  }
+
+  setTopBarHeight();
+  window.addEventListener('resize', setTopBarHeight);
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
 
   if (menuToggle && mobileNav) {
     menuToggle.addEventListener('click', function () {
-      const open = menuToggle.getAttribute('aria-expanded') === 'true';
-      menuToggle.setAttribute('aria-expanded', String(!open));
-      menuToggle.setAttribute('aria-label', open ? 'Open menu' : 'Close menu');
-      mobileNav.hidden = open;
-      document.body.style.overflow = open ? '' : 'hidden';
+      setMenuOpen(menuToggle.getAttribute('aria-expanded') !== 'true');
     });
 
     mobileNav.querySelectorAll('a').forEach(function (link) {
       link.addEventListener('click', function () {
-        menuToggle.setAttribute('aria-expanded', 'false');
-        menuToggle.setAttribute('aria-label', 'Open menu');
-        mobileNav.hidden = true;
-        document.body.style.overflow = '';
+        setMenuOpen(false);
       });
     });
   }
