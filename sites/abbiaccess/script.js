@@ -1,19 +1,22 @@
 (function () {
+  const siteChrome = document.getElementById('site-chrome');
   const header = document.getElementById('site-header');
-  const topBar = document.querySelector('.top-bar');
   const menuToggle = document.querySelector('.menu-toggle');
   const mobileNav = document.getElementById('mobile-nav');
   const dropdownItem = document.querySelector('.nav-item.has-dropdown');
   const dropdownToggle = document.querySelector('.nav-dropdown-toggle');
 
-  function setTopBarHeight() {
-    if (!topBar) return;
-    document.documentElement.style.setProperty('--top-bar-h', topBar.offsetHeight + 'px');
+  function setChromeHeight() {
+    if (!siteChrome) return;
+    document.documentElement.style.setProperty('--site-offset', siteChrome.offsetHeight + 'px');
   }
 
   function onScroll() {
-    if (!header) return;
-    header.classList.toggle('is-scrolled', window.scrollY > 60);
+    if (!siteChrome || !header) return;
+    const scrolled = window.scrollY > 60;
+    siteChrome.classList.toggle('is-scrolled', scrolled);
+    header.classList.toggle('is-scrolled', scrolled);
+    setChromeHeight();
   }
 
   function setMenuOpen(open) {
@@ -25,8 +28,12 @@
     document.body.style.overflow = open ? 'hidden' : '';
   }
 
-  setTopBarHeight();
-  window.addEventListener('resize', setTopBarHeight);
+  setChromeHeight();
+  if (siteChrome && 'ResizeObserver' in window) {
+    new ResizeObserver(setChromeHeight).observe(siteChrome);
+  } else {
+    window.addEventListener('resize', setChromeHeight);
+  }
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
 
