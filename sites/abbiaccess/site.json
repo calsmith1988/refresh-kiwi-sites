@@ -1,0 +1,19 @@
+{
+  "brandName": "Abbi Access Services Ltd",
+  "slug": "abbiaccess",
+  "sourceUrl": "https://abbiaccess.com/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/commercial-scaffolding", "title": "Commercial Scaffolding" },
+    { "path": "/heritage-scaffolding", "title": "Heritage Scaffolding" },
+    { "path": "/industrial-scaffolding", "title": "Industrial Scaffolding" },
+    { "path": "/rail-scaffolding", "title": "Rail Scaffolding" },
+    { "path": "/residential-scaffolding", "title": "Residential Scaffolding" },
+    { "path": "/temporary-roof-scaffolding", "title": "Temporary Roof Scaffolding" },
+    { "path": "/projects", "title": "Projects" },
+    { "path": "/testimonials", "title": "Testimonials" },
+    { "path": "/contact-us", "title": "Contact Us" }
+  ]
+}
