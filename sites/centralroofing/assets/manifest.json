@@ -1,0 +1,295 @@
+{
+  "version": 1,
+  "slug": "centralroofing",
+  "localizedAt": "2026-07-06T09:57:17.744Z",
+  "images": [
+    {
+      "id": "img-7ff6a7fdcc",
+      "file": "assets/img-7ff6a7fdcc.svg",
+      "url": "/preview/centralroofing/assets/img-7ff6a7fdcc.svg",
+      "originalUrl": "https://www.centralroofing.co.uk/app/themes/central-group/resources/svg/logo.svg",
+      "contentType": "image/svg+xml",
+      "bytes": 18930
+    },
+    {
+      "id": "img-ff031b5c91",
+      "file": "assets/img-ff031b5c91.webp",
+      "url": "/preview/centralroofing/assets/img-ff031b5c91.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2025/05/Center-parcs-hero-1920x883.jpg",
+      "contentType": "image/webp",
+      "bytes": 487790
+    },
+    {
+      "id": "img-8259e245db",
+      "file": "assets/img-8259e245db.webp",
+      "url": "/preview/centralroofing/assets/img-8259e245db.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2025/10/hero-shot-2048x1536.jpg",
+      "contentType": "image/webp",
+      "bytes": 712956
+    },
+    {
+      "id": "img-8093120feb",
+      "file": "assets/img-8093120feb.webp",
+      "url": "/preview/centralroofing/assets/img-8093120feb.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2025/08/hero-shot-666x666.jpg",
+      "contentType": "image/webp",
+      "bytes": 56520
+    },
+    {
+      "id": "img-8cb57e3176",
+      "file": "assets/img-8cb57e3176.webp",
+      "url": "/preview/centralroofing/assets/img-8cb57e3176.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2024/08/Pano_3849_3851-310121_Mainspring_Cardiff_Vale_Hospital-Large-2-666x666.jpg",
+      "contentType": "image/webp",
+      "bytes": 45840
+    },
+    {
+      "id": "img-7500e1e62b",
+      "file": "assets/img-7500e1e62b.webp",
+      "url": "/preview/centralroofing/assets/img-7500e1e62b.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2024/07/DJI_0802-666x666.jpg",
+      "contentType": "image/webp",
+      "bytes": 77956
+    },
+    {
+      "id": "img-2a6adcee25",
+      "file": "assets/img-2a6adcee25.webp",
+      "url": "/preview/centralroofing/assets/img-2a6adcee25.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2025/05/DJI_0896-666x666.jpg",
+      "contentType": "image/webp",
+      "bytes": 67726
+    },
+    {
+      "id": "img-15f2a11009",
+      "file": "assets/img-15f2a11009.webp",
+      "url": "/preview/centralroofing/assets/img-15f2a11009.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/04/DJI_0535-666x666.jpg",
+      "contentType": "image/webp",
+      "bytes": 71298
+    },
+    {
+      "id": "img-a0a9f89b6a",
+      "file": "assets/img-a0a9f89b6a.webp",
+      "url": "/preview/centralroofing/assets/img-a0a9f89b6a.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/06/ConstructionLine-1024x515.png",
+      "contentType": "image/webp",
+      "bytes": 27484
+    },
+    {
+      "id": "img-23b9750323",
+      "file": "assets/img-23b9750323.webp",
+      "url": "/preview/centralroofing/assets/img-23b9750323.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/06/Achilles-UVDB-Stamp-Verified.png",
+      "contentType": "image/webp",
+      "bytes": 9180
+    },
+    {
+      "id": "img-2c661abdfd",
+      "file": "assets/img-2c661abdfd.webp",
+      "url": "/preview/centralroofing/assets/img-2c661abdfd.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/06/8.-NFRC-1024x280.png",
+      "contentType": "image/webp",
+      "bytes": 10266
+    },
+    {
+      "id": "img-f78c569fcb",
+      "file": "assets/img-f78c569fcb.webp",
+      "url": "/preview/centralroofing/assets/img-f78c569fcb.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/06/SMAS_Worksafe_Logo-1024x451.jpg",
+      "contentType": "image/webp",
+      "bytes": 16612
+    },
+    {
+      "id": "img-3b387b7f70",
+      "file": "assets/img-3b387b7f70.webp",
+      "url": "/preview/centralroofing/assets/img-3b387b7f70.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/06/CHAS.png",
+      "contentType": "image/webp",
+      "bytes": 13964
+    },
+    {
+      "id": "img-fcd5f4f2d7",
+      "file": "assets/img-fcd5f4f2d7.webp",
+      "url": "/preview/centralroofing/assets/img-fcd5f4f2d7.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/06/7.-NFRC-Gold.png",
+      "contentType": "image/webp",
+      "bytes": 2990
+    },
+    {
+      "id": "img-a87a8b6d38",
+      "file": "assets/img-a87a8b6d38.webp",
+      "url": "/preview/centralroofing/assets/img-a87a8b6d38.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/08/2.-SafeContractor-1024x1024.png",
+      "contentType": "image/webp",
+      "bytes": 60410
+    },
+    {
+      "id": "img-4043cde36f",
+      "file": "assets/img-4043cde36f.webp",
+      "url": "/preview/centralroofing/assets/img-4043cde36f.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/09/6.-ISO-14001-edited-1024x593.png",
+      "contentType": "image/webp",
+      "bytes": 24590
+    },
+    {
+      "id": "img-e17b9a7a6b",
+      "file": "assets/img-e17b9a7a6b.webp",
+      "url": "/preview/centralroofing/assets/img-e17b9a7a6b.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2026/04/NQA_ISO9001_CMYK_UKAS-1024x768.jpg",
+      "contentType": "image/webp",
+      "bytes": 23212
+    },
+    {
+      "id": "img-2d817b1e1d",
+      "file": "assets/img-2d817b1e1d.webp",
+      "url": "/preview/centralroofing/assets/img-2d817b1e1d.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/09/COMMUNITY_CHAMPION_STAMP-1024x1024.png",
+      "contentType": "image/webp",
+      "bytes": 45198
+    },
+    {
+      "id": "img-019aa9b800",
+      "file": "assets/img-019aa9b800.webp",
+      "url": "/preview/centralroofing/assets/img-019aa9b800.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2025/05/Center-parcs-hero-666x666.jpg",
+      "contentType": "image/webp",
+      "bytes": 111210
+    },
+    {
+      "id": "img-7323612ce3",
+      "file": "assets/img-7323612ce3.webp",
+      "url": "/preview/centralroofing/assets/img-7323612ce3.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2025/05/DJI_0896-842x405.jpg",
+      "contentType": "image/webp",
+      "bytes": 50452
+    },
+    {
+      "id": "img-af2a684adb",
+      "file": "assets/img-af2a684adb.webp",
+      "url": "/preview/centralroofing/assets/img-af2a684adb.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2025/10/hero-shot-842x405.jpg",
+      "contentType": "image/webp",
+      "bytes": 86812
+    },
+    {
+      "id": "img-d6f56ad4ac",
+      "file": "assets/img-d6f56ad4ac.webp",
+      "url": "/preview/centralroofing/assets/img-d6f56ad4ac.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/04/pitched-roof-1-352x493.jpg",
+      "contentType": "image/webp",
+      "bytes": 26342
+    },
+    {
+      "id": "img-6eb162c829",
+      "file": "assets/img-6eb162c829.webp",
+      "url": "/preview/centralroofing/assets/img-6eb162c829.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/06/pic3-352x493.png",
+      "contentType": "image/webp",
+      "bytes": 15456
+    },
+    {
+      "id": "img-bc04999320",
+      "file": "assets/img-bc04999320.webp",
+      "url": "/preview/centralroofing/assets/img-bc04999320.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2025/01/drone-full-after-352x493.jpg",
+      "contentType": "image/webp",
+      "bytes": 33976
+    },
+    {
+      "id": "img-5227da9488",
+      "file": "assets/img-5227da9488.webp",
+      "url": "/preview/centralroofing/assets/img-5227da9488.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/04/110325_019-352x493.jpg",
+      "contentType": "image/webp",
+      "bytes": 18548
+    },
+    {
+      "id": "img-21908ee4ff",
+      "file": "assets/img-21908ee4ff.webp",
+      "url": "/preview/centralroofing/assets/img-21908ee4ff.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/04/7f3e3bbc-45ea-4d0e-88b9-0fe52bae93f2-1-352x493.jpeg",
+      "contentType": "image/webp",
+      "bytes": 56500
+    },
+    {
+      "id": "img-e58a5e9e0f",
+      "file": "assets/img-e58a5e9e0f.webp",
+      "url": "/preview/centralroofing/assets/img-e58a5e9e0f.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/04/ONS-Newport-6-352x493.jpg",
+      "contentType": "image/webp",
+      "bytes": 39502
+    },
+    {
+      "id": "img-9ff4f9557b",
+      "file": "assets/img-9ff4f9557b.webp",
+      "url": "/preview/centralroofing/assets/img-9ff4f9557b.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/04/Building-works-352x493.jpeg",
+      "contentType": "image/webp",
+      "bytes": 29292
+    },
+    {
+      "id": "img-6a06bab812",
+      "file": "assets/img-6a06bab812.webp",
+      "url": "/preview/centralroofing/assets/img-6a06bab812.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2024/01/2-352x493.jpeg",
+      "contentType": "image/webp",
+      "bytes": 19662
+    },
+    {
+      "id": "img-26fb322a4e",
+      "file": "assets/img-26fb322a4e.webp",
+      "url": "/preview/centralroofing/assets/img-26fb322a4e.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/04/Central_Roofing_ForWeb044-352x493.jpg",
+      "contentType": "image/webp",
+      "bytes": 13580
+    },
+    {
+      "id": "img-58d729dff8",
+      "file": "assets/img-58d729dff8.webp",
+      "url": "/preview/centralroofing/assets/img-58d729dff8.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/04/chicklade_farm_02-352x493.jpeg",
+      "contentType": "image/webp",
+      "bytes": 21386
+    },
+    {
+      "id": "img-2807efca1f",
+      "file": "assets/img-2807efca1f.webp",
+      "url": "/preview/centralroofing/assets/img-2807efca1f.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2022/04/IMG_8585-352x493.jpeg",
+      "contentType": "image/webp",
+      "bytes": 13008
+    },
+    {
+      "id": "img-a050d49d81",
+      "file": "assets/img-a050d49d81.webp",
+      "url": "/preview/centralroofing/assets/img-a050d49d81.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2025/09/Directors-2025-1024x393.webp",
+      "contentType": "image/webp",
+      "bytes": 56868
+    },
+    {
+      "id": "img-6dbb248411",
+      "file": "assets/img-6dbb248411.webp",
+      "url": "/preview/centralroofing/assets/img-6dbb248411.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2025/09/22-05-25-Roger-Parckar-Trophy-126-1-792x490.jpg",
+      "contentType": "image/webp",
+      "bytes": 35232
+    },
+    {
+      "id": "img-1d0bd20264",
+      "file": "assets/img-1d0bd20264.webp",
+      "url": "/preview/centralroofing/assets/img-1d0bd20264.webp",
+      "originalUrl": "https://www.centralroofing.co.uk/app/uploads/2025/08/hero-shot-1106x530.jpg",
+      "contentType": "image/webp",
+      "bytes": 77020
+    },
+    {
+      "id": "img-c41f2d5f1c",
+      "file": "assets/img-c41f2d5f1c.svg",
+      "url": "/preview/centralroofing/assets/img-c41f2d5f1c.svg",
+      "originalUrl": "https://www.centralroofing.co.uk/app/themes/central-group/resources/svg/logo-inverse.svg",
+      "contentType": "image/svg+xml",
+      "bytes": 33864
+    }
+  ]
+}
