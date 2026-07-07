@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "slug": "nick-harcourt-kitchen-fitting-carpentry",
+  "localizedAt": "2026-07-07T21:15:04.584Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-e36785183c.webp",
+      "url": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-e36785183c.webp",
+      "originalUrl": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-e36785183c.webp",
+      "contentType": "image/webp",
+      "bytes": 245468,
+      "source": "upload",
+      "replacedAt": "2026-07-07T21:15:04.584Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-eb16c078fe.webp",
+      "url": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-eb16c078fe.webp",
+      "originalUrl": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-eb16c078fe.webp",
+      "contentType": "image/webp",
+      "bytes": 178760,
+      "source": "upload",
+      "replacedAt": "2026-07-07T21:15:04.584Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-e9945be768.webp",
+      "url": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-e9945be768.webp",
+      "originalUrl": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-e9945be768.webp",
+      "contentType": "image/webp",
+      "bytes": 113246,
+      "source": "upload",
+      "replacedAt": "2026-07-07T21:15:04.584Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-98c2282908.webp",
+      "url": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-98c2282908.webp",
+      "originalUrl": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-98c2282908.webp",
+      "contentType": "image/webp",
+      "bytes": 178226,
+      "source": "upload",
+      "replacedAt": "2026-07-07T21:15:04.584Z"
+    },
+    {
+      "id": "seed-image-5",
+      "role": "image",
+      "file": "assets/img-ae58d24f4e.webp",
+      "url": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-ae58d24f4e.webp",
+      "originalUrl": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-ae58d24f4e.webp",
+      "contentType": "image/webp",
+      "bytes": 375706,
+      "source": "upload",
+      "replacedAt": "2026-07-07T21:15:04.584Z"
+    },
+    {
+      "id": "seed-image-6",
+      "role": "image",
+      "file": "assets/img-d96d5f29d2.webp",
+      "url": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-d96d5f29d2.webp",
+      "originalUrl": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-d96d5f29d2.webp",
+      "contentType": "image/webp",
+      "bytes": 363004,
+      "source": "upload",
+      "replacedAt": "2026-07-07T21:15:04.584Z"
+    },
+    {
+      "id": "seed-image-7",
+      "role": "image",
+      "file": "assets/img-4a58a18629.webp",
+      "url": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-4a58a18629.webp",
+      "originalUrl": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-4a58a18629.webp",
+      "contentType": "image/webp",
+      "bytes": 218622,
+      "source": "upload",
+      "replacedAt": "2026-07-07T21:15:04.584Z"
+    },
+    {
+      "id": "seed-image-8",
+      "role": "image",
+      "file": "assets/img-f698cc085e.webp",
+      "url": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-f698cc085e.webp",
+      "originalUrl": "/preview/nick-harcourt-kitchen-fitting-carpentry/assets/img-f698cc085e.webp",
+      "contentType": "image/webp",
+      "bytes": 49340,
+      "source": "upload",
+      "replacedAt": "2026-07-07T21:15:04.584Z"
+    }
+  ]
+}
