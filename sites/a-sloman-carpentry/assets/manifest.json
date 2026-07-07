@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "slug": "a-sloman-carpentry",
+  "localizedAt": "2026-07-07T20:29:54.287Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-266247f4f2.webp",
+      "url": "/preview/a-sloman-carpentry/assets/img-266247f4f2.webp",
+      "originalUrl": "/preview/a-sloman-carpentry/assets/img-266247f4f2.webp",
+      "contentType": "image/webp",
+      "bytes": 83314,
+      "source": "generated",
+      "replacedAt": "2026-07-07T20:29:54.287Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-59c50b730d.webp",
+      "url": "/preview/a-sloman-carpentry/assets/img-59c50b730d.webp",
+      "originalUrl": "/preview/a-sloman-carpentry/assets/img-59c50b730d.webp",
+      "contentType": "image/webp",
+      "bytes": 77260,
+      "source": "generated",
+      "replacedAt": "2026-07-07T20:29:54.287Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-a6aeefadb5.webp",
+      "url": "/preview/a-sloman-carpentry/assets/img-a6aeefadb5.webp",
+      "originalUrl": "/preview/a-sloman-carpentry/assets/img-a6aeefadb5.webp",
+      "contentType": "image/webp",
+      "bytes": 94188,
+      "source": "generated",
+      "replacedAt": "2026-07-07T20:29:54.287Z"
+    }
+  ]
+}
