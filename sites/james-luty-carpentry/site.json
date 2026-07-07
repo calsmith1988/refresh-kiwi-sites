@@ -1,0 +1,9 @@
+{
+  "brandName": "James Luty Carpentry",
+  "slug": "james-luty-carpentry",
+  "sourceUrl": null,
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}
