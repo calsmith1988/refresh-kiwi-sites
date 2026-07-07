@@ -1,0 +1,9 @@
+{
+  "brandName": "A Sloman Carpentry",
+  "slug": "a-sloman-carpentry",
+  "sourceUrl": null,
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": []
+}
