@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "slug": "james-luty-carpentry",
+  "localizedAt": "2026-07-07T14:44:06.558Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-8a0dc4722b.webp",
+      "url": "/preview/james-luty-carpentry/assets/img-8a0dc4722b.webp",
+      "originalUrl": "/preview/james-luty-carpentry/assets/img-8a0dc4722b.webp",
+      "contentType": "image/webp",
+      "bytes": 102392,
+      "source": "generated",
+      "replacedAt": "2026-07-07T14:44:06.558Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-59ce8bd616.webp",
+      "url": "/preview/james-luty-carpentry/assets/img-59ce8bd616.webp",
+      "originalUrl": "/preview/james-luty-carpentry/assets/img-59ce8bd616.webp",
+      "contentType": "image/webp",
+      "bytes": 109756,
+      "source": "generated",
+      "replacedAt": "2026-07-07T14:44:06.558Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-037ac441eb.webp",
+      "url": "/preview/james-luty-carpentry/assets/img-037ac441eb.webp",
+      "originalUrl": "/preview/james-luty-carpentry/assets/img-037ac441eb.webp",
+      "contentType": "image/webp",
+      "bytes": 99108,
+      "source": "generated",
+      "replacedAt": "2026-07-07T14:44:06.558Z"
+    }
+  ]
+}
