@@ -1,0 +1,20 @@
+{
+  "brandName": "Abbott Luxury Bathrooms Ltd.",
+  "slug": "abbottluxurybathrooms",
+  "sourceUrl": "https://abbottluxurybathrooms.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/bathroom-fitter/", "title": "Bathroom Fitting" },
+    { "path": "/bathroom-fitter/cardiff/", "title": "Bathroom Fitter Cardiff" },
+    { "path": "/bathroom-fitter/newport/", "title": "Bathroom Fitter Newport" },
+    { "path": "/kitchen-fitter/", "title": "Kitchen Fitting" },
+    { "path": "/kitchen-fitter/cardiff/", "title": "Kitchen Fitter in Cardiff" },
+    { "path": "/kitchen-fitter/newport/", "title": "Kitchen Fitter In Newport" },
+    { "path": "/recent-work/", "title": "Recent Work" },
+    { "path": "/recent-work/recent-bathrooms/", "title": "Recent Bathrooms" },
+    { "path": "/recent-work/recent-kitchens/", "title": "Recent Kitchens" },
+    { "path": "/contact/", "title": "Contact" }
+  ]
+}
