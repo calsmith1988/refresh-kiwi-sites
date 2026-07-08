@@ -85,4 +85,30 @@
       el.classList.add('is-visible');
     });
   }
+
+  document.querySelectorAll('[data-refresh-kiwi-contact]').forEach(function (form) {
+    form.addEventListener('submit', async function (event) {
+      event.preventDefault();
+      var status = form.querySelector('[data-refresh-kiwi-contact-status]');
+      var button = form.querySelector('button[type="submit"]');
+      var data = Object.fromEntries(new FormData(form).entries());
+      if (status) status.textContent = 'Sending...';
+      if (button) button.disabled = true;
+      try {
+        var response = await fetch('/api/site-contact', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(data)
+        });
+        var result = await response.json();
+        if (!response.ok || !result.ok) throw new Error(result.error || 'Could not send message.');
+        form.reset();
+        if (status) status.textContent = 'Thanks - your message has been sent.';
+      } catch (error) {
+        if (status) status.textContent = error.message || 'Could not send message. Please try again.';
+      } finally {
+        if (button) button.disabled = false;
+      }
+    });
+  });
 })();
