@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "slug": "create-a-website-for-my-5",
+  "localizedAt": "2026-07-09T11:15:26.968Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-3211017008.webp",
+      "url": "/preview/create-a-website-for-my-5/assets/img-3211017008.webp",
+      "originalUrl": "/preview/create-a-website-for-my-5/assets/img-3211017008.webp",
+      "contentType": "image/webp",
+      "bytes": 34548,
+      "source": "generated",
+      "replacedAt": "2026-07-09T11:15:26.968Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-babfddc8a3.webp",
+      "url": "/preview/create-a-website-for-my-5/assets/img-babfddc8a3.webp",
+      "originalUrl": "/preview/create-a-website-for-my-5/assets/img-babfddc8a3.webp",
+      "contentType": "image/webp",
+      "bytes": 82220,
+      "source": "generated",
+      "replacedAt": "2026-07-09T11:15:26.968Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-dc88f27f2b.webp",
+      "url": "/preview/create-a-website-for-my-5/assets/img-dc88f27f2b.webp",
+      "originalUrl": "/preview/create-a-website-for-my-5/assets/img-dc88f27f2b.webp",
+      "contentType": "image/webp",
+      "bytes": 64572,
+      "source": "generated",
+      "replacedAt": "2026-07-09T11:15:26.968Z"
+    }
+  ]
+}
