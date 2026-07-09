@@ -1,0 +1,18 @@
+{
+  "brandName": "Bonny Tiler",
+  "slug": "bonnytiler",
+  "sourceUrl": "https://bonnytiler.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about", "title": "About" },
+    { "path": "/services", "title": "Services" },
+    { "path": "/bathrooms", "title": "Bathrooms" },
+    { "path": "/wetrooms", "title": "Wet Rooms" },
+    { "path": "/tiling", "title": "Tiling" },
+    { "path": "/gallery", "title": "Gallery" },
+    { "path": "/quote-request", "title": "Quote Request" },
+    { "path": "/contact", "title": "Contact" }
+  ]
+}
