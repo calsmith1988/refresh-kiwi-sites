@@ -1,0 +1,15 @@
+{
+  "brandName": "EDD Response Maintenance Services LTD",
+  "slug": "eddresponsemaintenanceservicesltd-2",
+  "sourceUrl": "https://www.eddresponsemaintenanceservicesltd.com/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/services", "title": "Services" },
+    { "path": "/gallery", "title": "Gallery" },
+    { "path": "/electrician-caerphillyinfo", "title": "About" },
+    { "path": "/caerphillyelectricianreviews", "title": "Reviews" },
+    { "path": "/contactelectriciancaerphilly", "title": "Contact" }
+  ]
+}
