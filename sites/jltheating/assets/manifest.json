@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "slug": "jltheating",
+  "localizedAt": "2026-07-14T15:18:01.847Z",
+  "images": [
+    {
+      "id": "img-92718e6b96",
+      "file": "assets/img-92718e6b96.webp",
+      "url": "/preview/jltheating/assets/img-92718e6b96.webp",
+      "originalUrl": "https://lirp.cdn-website.com/07ff2f32/dms3rep/multi/opt/logo-1920w.png",
+      "contentType": "image/webp",
+      "bytes": 5294
+    },
+    {
+      "id": "img-536864f4d0",
+      "file": "assets/img-536864f4d0.webp",
+      "url": "/preview/jltheating/assets/img-536864f4d0.webp",
+      "originalUrl": "https://lirp.cdn-website.com/07ff2f32/dms3rep/multi/opt/Heating-1920w.jpg",
+      "contentType": "image/webp",
+      "bytes": 48610
+    },
+    {
+      "id": "img-5ad6a359c5",
+      "file": "assets/img-5ad6a359c5.webp",
+      "url": "/preview/jltheating/assets/img-5ad6a359c5.webp",
+      "originalUrl": "https://lirp.cdn-website.com/07ff2f32/dms3rep/multi/opt/15yrs-328w.png",
+      "contentType": "image/webp",
+      "bytes": 3206
+    },
+    {
+      "id": "img-51f3466c53",
+      "file": "assets/img-51f3466c53.png",
+      "url": "/preview/jltheating/assets/img-51f3466c53.png",
+      "originalUrl": "https://lirp.cdn-website.com/07ff2f32/dms3rep/multi/opt/repair-328w.png",
+      "contentType": "image/png",
+      "bytes": 1506
+    },
+    {
+      "id": "img-5af1c6756e",
+      "file": "assets/img-5af1c6756e.png",
+      "url": "/preview/jltheating/assets/img-5af1c6756e.png",
+      "originalUrl": "https://lirp.cdn-website.com/07ff2f32/dms3rep/multi/opt/thumb-328w.png",
+      "contentType": "image/png",
+      "bytes": 1340
+    },
+    {
+      "id": "img-8358c152ef",
+      "file": "assets/img-8358c152ef.webp",
+      "url": "/preview/jltheating/assets/img-8358c152ef.webp",
+      "originalUrl": "https://lirp.cdn-website.com/07ff2f32/dms3rep/multi/opt/Association-1920w.jpg",
+      "contentType": "image/webp",
+      "bytes": 12990
+    },
+    {
+      "id": "img-12cd398c09",
+      "file": "assets/img-12cd398c09.webp",
+      "url": "/preview/jltheating/assets/img-12cd398c09.webp",
+      "originalUrl": "https://lirp.cdn-website.com/07ff2f32/dms3rep/multi/opt/plumbing-small-1920w.jpg",
+      "contentType": "image/webp",
+      "bytes": 34334
+    },
+    {
+      "id": "img-4443c4b022",
+      "file": "assets/img-4443c4b022.webp",
+      "url": "/preview/jltheating/assets/img-4443c4b022.webp",
+      "originalUrl": "https://lirp.cdn-website.com/07ff2f32/dms3rep/multi/opt/CTA-142w.png",
+      "contentType": "image/webp",
+      "bytes": 1062
+    },
+    {
+      "id": "img-2d97a45d94",
+      "file": "assets/img-2d97a45d94.webp",
+      "url": "/preview/jltheating/assets/img-2d97a45d94.webp",
+      "originalUrl": "https://lirp.cdn-website.com/07ff2f32/dms3rep/multi/opt/Bathroom+small1-1920w.jpg",
+      "contentType": "image/webp",
+      "bytes": 53708
+    },
+    {
+      "id": "img-ada5d877b7",
+      "file": "assets/img-ada5d877b7.webp",
+      "url": "/preview/jltheating/assets/img-ada5d877b7.webp",
+      "originalUrl": "https://lirp.cdn-website.com/07ff2f32/dms3rep/multi/opt/yell-review-light-1920w.png",
+      "contentType": "image/webp",
+      "bytes": 5424
+    }
+  ]
+}

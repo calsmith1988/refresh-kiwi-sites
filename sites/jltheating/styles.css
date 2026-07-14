@@ -606,7 +606,7 @@ ul { list-style: none; }
   content: "";
   position: absolute;
   inset: 0;
-  background: url("https://lirp.cdn-website.com/07ff2f32/dms3rep/multi/opt/Heating-1920w.jpg") center/cover no-repeat;
+  background: url("/preview/jltheating/assets/img-536864f4d0.webp") center/cover no-repeat;
   z-index: 0;
   opacity: 0.25;
 }
