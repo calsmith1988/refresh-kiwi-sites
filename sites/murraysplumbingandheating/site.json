@@ -1,0 +1,21 @@
+{
+  "brandName": "Murray's Plumbing & Heating",
+  "slug": "murraysplumbingandheating",
+  "sourceUrl": "https://murraysplumbingandheating.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about-us", "title": "About Us" },
+    { "path": "/services", "title": "Services" },
+    { "path": "/services/boiler-service-repair-installation", "title": "Boiler Service, Repair & Installation" },
+    { "path": "/services/general-plumbing", "title": "General Plumbing" },
+    { "path": "/services/central-heating", "title": "Central Heating" },
+    { "path": "/services/bathroom-fittings", "title": "Bathroom Fittings" },
+    { "path": "/services/landlord-gas-safe-certificate", "title": "Landlord Gas Safe Certificate" },
+    { "path": "/services/unvented-hot-water-cylinder-installations", "title": "Unvented Hot Water Cylinder Installations" },
+    { "path": "/contact", "title": "Contact" },
+    { "path": "/testimonials", "title": "Testimonials" },
+    { "path": "/latest-updates", "title": "Latest Updates" }
+  ]
+}
