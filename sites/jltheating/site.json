@@ -1,0 +1,15 @@
+{
+  "brandName": "JLT Plumbing & Heating Ltd",
+  "slug": "jltheating",
+  "sourceUrl": "https://www.jltheating.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/central-heating", "title": "Central Heating" },
+    { "path": "/plumbing", "title": "Plumbing" },
+    { "path": "/disabled-adaptations", "title": "Disabled Adaptations" },
+    { "path": "/gallery", "title": "Gallery" },
+    { "path": "/contact", "title": "Contact us" }
+  ]
+}
