@@ -1,0 +1,19 @@
+{
+  "brandName": "Lyons Carpentry",
+  "slug": "lyonscarpentry",
+  "sourceUrl": "https://lyonscarpentry.com/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about", "title": "About" },
+    { "path": "/home-refurbishments", "title": "Home Refurbishments" },
+    { "path": "/kitchen-installers", "title": "Kitchen Installers" },
+    { "path": "/bathrooms", "title": "Bathrooms" },
+    { "path": "/staircases", "title": "Staircases" },
+    { "path": "/bespoke-cabinetry", "title": "Bespoke Cabinetry" },
+    { "path": "/upvc-windows-composite-doors", "title": "UPVC Windows & Composite Doors" },
+    { "path": "/landscaping-services", "title": "Landscaping Services" },
+    { "path": "/contact", "title": "Contact" }
+  ]
+}
