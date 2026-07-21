@@ -1,0 +1,20 @@
+{
+  "brandName": "Stockwood Carpentry Ltd",
+  "slug": "stockwoodcarpentry",
+  "sourceUrl": "https://stockwoodcarpentry.com/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about", "title": "About" },
+    { "path": "/services", "title": "Services" },
+    { "path": "/media-walls", "title": "Media Walls" },
+    { "path": "/internal-walls-doors", "title": "Internal Doors & Walls" },
+    { "path": "/bespoke-wardrobes", "title": "Fitted Wardrobes" },
+    { "path": "/bespoke-kitchens", "title": "Bespoke Kitchens" },
+    { "path": "/flooring", "title": "Flooring Installation" },
+    { "path": "/gallery", "title": "Gallery" },
+    { "path": "/reviews", "title": "Reviews" },
+    { "path": "/contact", "title": "Contact" }
+  ]
+}
