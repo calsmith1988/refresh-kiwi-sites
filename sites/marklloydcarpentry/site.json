@@ -1,0 +1,17 @@
+{
+  "brandName": "Mark Lloyd Carpentry",
+  "slug": "marklloydcarpentry",
+  "sourceUrl": "https://www.marklloydcarpentry.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/services/staircase-refurbishment-southampton/", "title": "Staircases" },
+    { "path": "/services/kitchen-fitting-southampton/", "title": "Kitchen Fitting" },
+    { "path": "/services/worktop-replacements-southampton/", "title": "Worktops" },
+    { "path": "/services/internal-door-fitting-southampton/", "title": "Door Fitting" },
+    { "path": "/services/door-trimming-southampton/", "title": "Door Trimming" },
+    { "path": "/services/carpentry-services-southampton/", "title": "Carpentry" },
+    { "path": "/contact-us/", "title": "Contact" }
+  ]
+}
