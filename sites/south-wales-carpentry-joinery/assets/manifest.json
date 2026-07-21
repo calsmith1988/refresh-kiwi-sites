@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "slug": "south-wales-carpentry-joinery",
+  "localizedAt": "2026-07-21T13:38:47.733Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-67f72f55e9.webp",
+      "url": "/preview/south-wales-carpentry-joinery/assets/img-67f72f55e9.webp",
+      "originalUrl": "/preview/south-wales-carpentry-joinery/assets/img-67f72f55e9.webp",
+      "contentType": "image/webp",
+      "bytes": 168582,
+      "source": "upload",
+      "replacedAt": "2026-07-21T13:38:47.733Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-e1878cacec.webp",
+      "url": "/preview/south-wales-carpentry-joinery/assets/img-e1878cacec.webp",
+      "originalUrl": "/preview/south-wales-carpentry-joinery/assets/img-e1878cacec.webp",
+      "contentType": "image/webp",
+      "bytes": 129888,
+      "source": "upload",
+      "replacedAt": "2026-07-21T13:38:47.733Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-bf30742b01.webp",
+      "url": "/preview/south-wales-carpentry-joinery/assets/img-bf30742b01.webp",
+      "originalUrl": "/preview/south-wales-carpentry-joinery/assets/img-bf30742b01.webp",
+      "contentType": "image/webp",
+      "bytes": 188530,
+      "source": "upload",
+      "replacedAt": "2026-07-21T13:38:47.733Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-f12e750e6a.webp",
+      "url": "/preview/south-wales-carpentry-joinery/assets/img-f12e750e6a.webp",
+      "originalUrl": "/preview/south-wales-carpentry-joinery/assets/img-f12e750e6a.webp",
+      "contentType": "image/webp",
+      "bytes": 80710,
+      "source": "upload",
+      "replacedAt": "2026-07-21T13:38:47.733Z"
+    },
+    {
+      "id": "seed-image-5",
+      "role": "image",
+      "file": "assets/img-6d40fe39e0.webp",
+      "url": "/preview/south-wales-carpentry-joinery/assets/img-6d40fe39e0.webp",
+      "originalUrl": "/preview/south-wales-carpentry-joinery/assets/img-6d40fe39e0.webp",
+      "contentType": "image/webp",
+      "bytes": 309246,
+      "source": "upload",
+      "replacedAt": "2026-07-21T13:38:47.733Z"
+    },
+    {
+      "id": "seed-image-6",
+      "role": "image",
+      "file": "assets/img-4698e19a5d.webp",
+      "url": "/preview/south-wales-carpentry-joinery/assets/img-4698e19a5d.webp",
+      "originalUrl": "/preview/south-wales-carpentry-joinery/assets/img-4698e19a5d.webp",
+      "contentType": "image/webp",
+      "bytes": 172322,
+      "source": "upload",
+      "replacedAt": "2026-07-21T13:38:47.733Z"
+    },
+    {
+      "id": "seed-image-7",
+      "role": "image",
+      "file": "assets/img-45610bb56e.webp",
+      "url": "/preview/south-wales-carpentry-joinery/assets/img-45610bb56e.webp",
+      "originalUrl": "/preview/south-wales-carpentry-joinery/assets/img-45610bb56e.webp",
+      "contentType": "image/webp",
+      "bytes": 67982,
+      "source": "upload",
+      "replacedAt": "2026-07-21T13:38:47.733Z"
+    },
+    {
+      "id": "seed-image-8",
+      "role": "image",
+      "file": "assets/img-d38127a75b.webp",
+      "url": "/preview/south-wales-carpentry-joinery/assets/img-d38127a75b.webp",
+      "originalUrl": "/preview/south-wales-carpentry-joinery/assets/img-d38127a75b.webp",
+      "contentType": "image/webp",
+      "bytes": 339430,
+      "source": "upload",
+      "replacedAt": "2026-07-21T13:38:47.733Z"
+    }
+  ]
+}
