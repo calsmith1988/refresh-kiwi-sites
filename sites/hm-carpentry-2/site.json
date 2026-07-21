@@ -1,0 +1,13 @@
+{
+  "brandName": "HM Carpentry",
+  "slug": "hm-carpentry-2",
+  "sourceUrl": "https://www.hm-carpentry.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/carpentry-services", "title": "Carpentry Services" },
+    { "path": "/gallery", "title": "Gallery" },
+    { "path": "/contact-us", "title": "Contact Us" }
+  ]
+}
