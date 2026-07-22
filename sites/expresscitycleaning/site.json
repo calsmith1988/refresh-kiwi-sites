@@ -1,0 +1,19 @@
+{
+  "brandName": "Express City Cleaning",
+  "slug": "expresscitycleaning",
+  "sourceUrl": "https://www.expresscitycleaning.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/gallery", "title": "Gallery" },
+    { "path": "/aboutus", "title": "About Us" },
+    { "path": "/prices", "title": "Prices" },
+    { "path": "/commercialcarpetcleaning", "title": "Commercial Cleaning" },
+    { "path": "/contactus", "title": "Contact Us" },
+    { "path": "/book-now", "title": "Book Now" },
+    { "path": "/book-online", "title": "Book Online" },
+    { "path": "/general-cleaning", "title": "General Cleaning" },
+    { "path": "/carpetclean", "title": "Carpet Cleaning Manchester" }
+  ]
+}
