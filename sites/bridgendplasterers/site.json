@@ -1,0 +1,16 @@
+{
+  "brandName": "Dean Blanche Plastering & Rendering",
+  "slug": "bridgendplasterers",
+  "sourceUrl": "https://www.bridgendplasterers.co.uk/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/about", "title": "About" },
+    { "path": "/services", "title": "Services" },
+    { "path": "/gallery", "title": "Gallery" },
+    { "path": "/recent-works-gallery", "title": "Recent Works Gallery" },
+    { "path": "/testimonials", "title": "Testimonials" },
+    { "path": "/contact", "title": "Contact" }
+  ]
+}
