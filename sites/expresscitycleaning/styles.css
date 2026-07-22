@@ -256,13 +256,24 @@ a:hover {
 .logo {
   display: flex;
   align-items: center;
+  gap: 0.65rem;
   margin-right: auto;
   text-decoration: none;
 }
 
 .logo img {
+  flex-shrink: 0;
   width: auto;
   height: 52px;
+}
+
+.logo-text {
+  font-size: 0.95rem;
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: var(--brand-teal-deep);
+  white-space: nowrap;
 }
 
 .nav {
@@ -1087,6 +1098,10 @@ a:hover {
     height: 44px;
   }
 
+  .logo-text {
+    font-size: 0.82rem;
+  }
+
   .hero {
     padding: 1.75rem 0 3rem;
   }
@@ -1177,6 +1192,10 @@ a:hover {
 
   .logo img {
     height: 38px;
+  }
+
+  .logo-text {
+    font-size: 0.72rem;
   }
 
   .announcement-inner {
