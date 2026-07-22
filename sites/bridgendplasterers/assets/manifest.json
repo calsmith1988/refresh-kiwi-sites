@@ -21,11 +21,23 @@
     },
     {
       "id": "img-9b44583cce",
-      "file": "assets/img-9b44583cce.webp",
-      "url": "/preview/bridgendplasterers/assets/img-9b44583cce.webp",
+      "file": "assets/img-dd3617dc50.webp",
+      "url": "/preview/bridgendplasterers/assets/img-dd3617dc50.webp",
       "originalUrl": "https://www.bridgendplasterers.co.uk/wp-content/uploads/2014/09/mainslider7.jpg",
       "contentType": "image/webp",
-      "bytes": 64518
+      "bytes": 1403584,
+      "source": "remix",
+      "replacedAt": "2026-07-22T12:01:40.413Z",
+      "history": [
+        {
+          "file": "assets/img-9b44583cce.webp",
+          "url": "/preview/bridgendplasterers/assets/img-9b44583cce.webp",
+          "contentType": "image/webp",
+          "bytes": 64518,
+          "source": "original",
+          "createdAt": "2026-07-22T11:30:34.172Z"
+        }
+      ]
     },
     {
       "id": "img-0e9b1fd3db",
