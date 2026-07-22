@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "slug": "bridgendplasterers",
+  "localizedAt": "2026-07-22T11:30:34.172Z",
+  "images": [
+    {
+      "id": "img-30d3e25d42",
+      "file": "assets/img-30d3e25d42.webp",
+      "url": "/preview/bridgendplasterers/assets/img-30d3e25d42.webp",
+      "originalUrl": "https://www.bridgendplasterers.co.uk/wp-content/uploads/2014/10/logo1.jpg",
+      "contentType": "image/webp",
+      "bytes": 7178
+    },
+    {
+      "id": "img-9e0e4d2bb9",
+      "file": "assets/img-9e0e4d2bb9.webp",
+      "url": "/preview/bridgendplasterers/assets/img-9e0e4d2bb9.webp",
+      "originalUrl": "https://www.bridgendplasterers.co.uk/wp-content/uploads/2014/10/mainslider8.jpg",
+      "contentType": "image/webp",
+      "bytes": 18232
+    },
+    {
+      "id": "img-9b44583cce",
+      "file": "assets/img-9b44583cce.webp",
+      "url": "/preview/bridgendplasterers/assets/img-9b44583cce.webp",
+      "originalUrl": "https://www.bridgendplasterers.co.uk/wp-content/uploads/2014/09/mainslider7.jpg",
+      "contentType": "image/webp",
+      "bytes": 64518
+    },
+    {
+      "id": "img-0e9b1fd3db",
+      "file": "assets/img-0e9b1fd3db.webp",
+      "url": "/preview/bridgendplasterers/assets/img-0e9b1fd3db.webp",
+      "originalUrl": "https://www.bridgendplasterers.co.uk/wp-content/uploads/2014/09/city-and-guilds-logo.png",
+      "contentType": "image/webp",
+      "bytes": 6344
+    },
+    {
+      "id": "img-6c14333d28",
+      "file": "assets/img-6c14333d28.webp",
+      "url": "/preview/bridgendplasterers/assets/img-6c14333d28.webp",
+      "originalUrl": "https://www.bridgendplasterers.co.uk/wp-content/uploads/2014/09/mainslider4.jpg",
+      "contentType": "image/webp",
+      "bytes": 30480
+    },
+    {
+      "id": "img-ab2d3c33fb",
+      "file": "assets/img-ab2d3c33fb.webp",
+      "url": "/preview/bridgendplasterers/assets/img-ab2d3c33fb.webp",
+      "originalUrl": "https://www.bridgendplasterers.co.uk/wp-content/uploads/2014/09/cscs.png",
+      "contentType": "image/webp",
+      "bytes": 7664
+    }
+  ]
+}
