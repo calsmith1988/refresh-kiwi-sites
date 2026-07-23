@@ -15,6 +15,8 @@
   --radius-lg: 12px;
   --wrap: min(1160px, calc(100% - 2.5rem));
   --header-h: 84px;
+  --logo-seal-size: 112px;
+  --logo-seal-overhang: 2.75rem;
   --announce-h: 44px;
   --serif: "Libre Baskerville", Georgia, "Times New Roman", serif;
   --sans: "Source Sans 3", system-ui, sans-serif;
@@ -105,10 +107,15 @@ button { font: inherit; cursor: pointer; border: none; background: none; }
   backdrop-filter: blur(10px);
   border-bottom: 1px solid transparent;
   transition: border-color 0.3s, box-shadow 0.3s;
+  overflow: visible;
 }
 .site-header.is-scrolled {
   border-color: var(--line);
   box-shadow: var(--shadow-sm);
+}
+.site-header.is-scrolled {
+  --logo-seal-size: 92px;
+  --logo-seal-overhang: 2rem;
 }
 .header-inner {
   display: grid;
@@ -116,11 +123,50 @@ button { font: inherit; cursor: pointer; border: none; background: none; }
   align-items: center;
   gap: 1rem 1.5rem;
   min-height: var(--header-h);
+  overflow: visible;
 }
-.logo img {
-  height: 60px;
+.logo-seal {
+  position: relative;
+  z-index: 105;
+  align-self: start;
+  display: block;
+  margin-block: 0.35rem calc(-1 * var(--logo-seal-overhang));
+  padding: 0.55rem 0.7rem 0.65rem;
+  background:
+    linear-gradient(180deg, var(--white) 0%, var(--cream) 100%);
+  border: 2px solid var(--gold);
+  border-radius: var(--radius-lg);
+  box-shadow:
+    0 0 0 1px rgba(174, 154, 100, 0.25),
+    var(--shadow-md);
+  transition:
+    transform 0.35s var(--ease),
+    box-shadow 0.35s,
+    margin 0.35s var(--ease),
+    padding 0.35s var(--ease);
+}
+.logo-seal::before {
+  content: "";
+  position: absolute;
+  inset: 5px;
+  border: 1px solid rgba(174, 154, 100, 0.45);
+  border-radius: calc(var(--radius-lg) - 3px);
+  pointer-events: none;
+}
+.logo-seal:hover {
+  transform: translateY(-1px);
+  box-shadow:
+    0 0 0 1px rgba(174, 154, 100, 0.35),
+    0 20px 40px rgba(58, 51, 33, 0.16);
+}
+.logo-seal img {
+  position: relative;
+  z-index: 1;
+  display: block;
+  height: var(--logo-seal-size);
   width: auto;
-  max-width: min(240px, 52vw);
+  max-width: none;
+  transition: height 0.35s var(--ease);
 }
 .nav {
   display: flex;
@@ -726,8 +772,19 @@ button { font: inherit; cursor: pointer; border: none; background: none; }
 }
 
 @media (max-width: 600px) {
-  :root { --header-h: 72px; }
-  .logo img { height: 52px; }
+  :root {
+    --header-h: 72px;
+    --logo-seal-size: 84px;
+    --logo-seal-overhang: 2rem;
+  }
+  .logo-seal {
+    margin-block: 0.2rem calc(-1 * var(--logo-seal-overhang));
+    padding: 0.4rem 0.5rem 0.5rem;
+  }
+  .site-header.is-scrolled {
+    --logo-seal-size: 72px;
+    --logo-seal-overhang: 1.5rem;
+  }
   .announcement-inner { font-size: 0.8125rem; }
   .hero-actions,
   .skincare-actions { flex-direction: column; }
