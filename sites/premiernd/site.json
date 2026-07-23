@@ -1,0 +1,21 @@
+{
+  "brandName": "Premier Aesthetics",
+  "slug": "premiernd",
+  "sourceUrl": "https://www.premiernd.com/",
+  "pages": [
+    { "path": "/", "title": "Home", "gated": false }
+  ],
+  "discoveredPages": [
+    { "path": "/services", "title": "Services" },
+    { "path": "/facials", "title": "Facials" },
+    { "path": "/botoxanddysport", "title": "Botox & Dysport" },
+    { "path": "/dermalfiller", "title": "Dermal Filler" },
+    { "path": "/iplphotofacial", "title": "IPL Photofacial" },
+    { "path": "/laserhairremoval", "title": "Laser Hair Removal" },
+    { "path": "/chemicalpeels", "title": "Chemical Peels" },
+    { "path": "/specials", "title": "Specials" },
+    { "path": "/teampremier", "title": "Team Premier" },
+    { "path": "/membership", "title": "Membership" },
+    { "path": "/contact", "title": "Contact" }
+  ]
+}
