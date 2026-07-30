@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "slug": "we-are-a-luxury-bathroom",
+  "localizedAt": "2026-07-30T11:11:55.647Z",
+  "images": [
+    {
+      "id": "seed-logo",
+      "role": "logo",
+      "file": "assets/logo-273d106a31.webp",
+      "url": "/preview/we-are-a-luxury-bathroom/assets/logo-273d106a31.webp",
+      "originalUrl": "/preview/we-are-a-luxury-bathroom/assets/logo-273d106a31.webp",
+      "contentType": "image/webp",
+      "bytes": 3084,
+      "source": "upload",
+      "replacedAt": "2026-07-30T11:11:55.647Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-bc0fa31675.webp",
+      "url": "/preview/we-are-a-luxury-bathroom/assets/img-bc0fa31675.webp",
+      "originalUrl": "/preview/we-are-a-luxury-bathroom/assets/img-bc0fa31675.webp",
+      "contentType": "image/webp",
+      "bytes": 232498,
+      "source": "upload",
+      "replacedAt": "2026-07-30T11:11:55.647Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-149fc34eea.webp",
+      "url": "/preview/we-are-a-luxury-bathroom/assets/img-149fc34eea.webp",
+      "originalUrl": "/preview/we-are-a-luxury-bathroom/assets/img-149fc34eea.webp",
+      "contentType": "image/webp",
+      "bytes": 266886,
+      "source": "upload",
+      "replacedAt": "2026-07-30T11:11:55.647Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-f1f0fc6516.webp",
+      "url": "/preview/we-are-a-luxury-bathroom/assets/img-f1f0fc6516.webp",
+      "originalUrl": "/preview/we-are-a-luxury-bathroom/assets/img-f1f0fc6516.webp",
+      "contentType": "image/webp",
+      "bytes": 192930,
+      "source": "upload",
+      "replacedAt": "2026-07-30T11:11:55.647Z"
+    }
+  ]
+}
