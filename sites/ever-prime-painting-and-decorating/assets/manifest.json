@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "slug": "ever-prime-painting-and-decorating",
+  "localizedAt": "2026-07-30T08:07:06.880Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-799a938312.webp",
+      "url": "/preview/ever-prime-painting-and-decorating/assets/img-799a938312.webp",
+      "originalUrl": "/preview/ever-prime-painting-and-decorating/assets/img-799a938312.webp",
+      "contentType": "image/webp",
+      "bytes": 215806,
+      "source": "upload",
+      "replacedAt": "2026-07-30T08:07:06.880Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-904d671aeb.webp",
+      "url": "/preview/ever-prime-painting-and-decorating/assets/img-904d671aeb.webp",
+      "originalUrl": "/preview/ever-prime-painting-and-decorating/assets/img-904d671aeb.webp",
+      "contentType": "image/webp",
+      "bytes": 248740,
+      "source": "upload",
+      "replacedAt": "2026-07-30T08:07:06.880Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-79b77c9217.webp",
+      "url": "/preview/ever-prime-painting-and-decorating/assets/img-79b77c9217.webp",
+      "originalUrl": "/preview/ever-prime-painting-and-decorating/assets/img-79b77c9217.webp",
+      "contentType": "image/webp",
+      "bytes": 410824,
+      "source": "upload",
+      "replacedAt": "2026-07-30T08:07:06.880Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-720467db52.webp",
+      "url": "/preview/ever-prime-painting-and-decorating/assets/img-720467db52.webp",
+      "originalUrl": "/preview/ever-prime-painting-and-decorating/assets/img-720467db52.webp",
+      "contentType": "image/webp",
+      "bytes": 113594,
+      "source": "upload",
+      "replacedAt": "2026-07-30T08:07:06.880Z"
+    },
+    {
+      "id": "seed-image-5",
+      "role": "image",
+      "file": "assets/img-a7e43109c4.webp",
+      "url": "/preview/ever-prime-painting-and-decorating/assets/img-a7e43109c4.webp",
+      "originalUrl": "/preview/ever-prime-painting-and-decorating/assets/img-a7e43109c4.webp",
+      "contentType": "image/webp",
+      "bytes": 124896,
+      "source": "upload",
+      "replacedAt": "2026-07-30T08:07:06.880Z"
+    },
+    {
+      "id": "seed-image-6",
+      "role": "image",
+      "file": "assets/img-f68b0dbfb3.webp",
+      "url": "/preview/ever-prime-painting-and-decorating/assets/img-f68b0dbfb3.webp",
+      "originalUrl": "/preview/ever-prime-painting-and-decorating/assets/img-f68b0dbfb3.webp",
+      "contentType": "image/webp",
+      "bytes": 181464,
+      "source": "upload",
+      "replacedAt": "2026-07-30T08:07:06.880Z"
+    },
+    {
+      "id": "seed-image-7",
+      "role": "image",
+      "file": "assets/img-2f2caee195.webp",
+      "url": "/preview/ever-prime-painting-and-decorating/assets/img-2f2caee195.webp",
+      "originalUrl": "/preview/ever-prime-painting-and-decorating/assets/img-2f2caee195.webp",
+      "contentType": "image/webp",
+      "bytes": 139354,
+      "source": "upload",
+      "replacedAt": "2026-07-30T08:07:06.880Z"
+    },
+    {
+      "id": "seed-image-8",
+      "role": "image",
+      "file": "assets/img-3c7f4cc693.webp",
+      "url": "/preview/ever-prime-painting-and-decorating/assets/img-3c7f4cc693.webp",
+      "originalUrl": "/preview/ever-prime-painting-and-decorating/assets/img-3c7f4cc693.webp",
+      "contentType": "image/webp",
+      "bytes": 65034,
+      "source": "upload",
+      "replacedAt": "2026-07-30T08:07:06.880Z"
+    }
+  ]
+}
