@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "slug": "stay-dry-roofing",
+  "localizedAt": "2026-07-30T12:21:00.418Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-a79ae4e8b4.webp",
+      "url": "/preview/stay-dry-roofing/assets/img-a79ae4e8b4.webp",
+      "originalUrl": "/preview/stay-dry-roofing/assets/img-a79ae4e8b4.webp",
+      "contentType": "image/webp",
+      "bytes": 472728,
+      "source": "upload",
+      "replacedAt": "2026-07-30T12:21:00.418Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-60a67087f5.webp",
+      "url": "/preview/stay-dry-roofing/assets/img-60a67087f5.webp",
+      "originalUrl": "/preview/stay-dry-roofing/assets/img-60a67087f5.webp",
+      "contentType": "image/webp",
+      "bytes": 433614,
+      "source": "upload",
+      "replacedAt": "2026-07-30T12:21:00.418Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-fd80d186a8.webp",
+      "url": "/preview/stay-dry-roofing/assets/img-fd80d186a8.webp",
+      "originalUrl": "/preview/stay-dry-roofing/assets/img-fd80d186a8.webp",
+      "contentType": "image/webp",
+      "bytes": 125634,
+      "source": "upload",
+      "replacedAt": "2026-07-30T12:21:00.418Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-c5b9ed7679.webp",
+      "url": "/preview/stay-dry-roofing/assets/img-c5b9ed7679.webp",
+      "originalUrl": "/preview/stay-dry-roofing/assets/img-c5b9ed7679.webp",
+      "contentType": "image/webp",
+      "bytes": 19760,
+      "source": "upload",
+      "replacedAt": "2026-07-30T12:21:00.418Z"
+    }
+  ]
+}
