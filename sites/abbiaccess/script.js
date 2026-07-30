@@ -13,7 +13,7 @@
 
   function onScroll() {
     if (!siteChrome || !header) return;
-    const scrolled = window.scrollY > 60;
+    const scrolled = window.scrollY > 20;
     siteChrome.classList.toggle('is-scrolled', scrolled);
     header.classList.toggle('is-scrolled', scrolled);
     setChromeHeight();
