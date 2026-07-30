@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "slug": "james-lucas-roofing-services",
+  "localizedAt": "2026-07-30T12:16:41.429Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-dabdb9af7e.webp",
+      "url": "/preview/james-lucas-roofing-services/assets/img-dabdb9af7e.webp",
+      "originalUrl": "/preview/james-lucas-roofing-services/assets/img-dabdb9af7e.webp",
+      "contentType": "image/webp",
+      "bytes": 259898,
+      "source": "upload",
+      "replacedAt": "2026-07-30T12:16:41.429Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-d9ab5bfbeb.webp",
+      "url": "/preview/james-lucas-roofing-services/assets/img-d9ab5bfbeb.webp",
+      "originalUrl": "/preview/james-lucas-roofing-services/assets/img-d9ab5bfbeb.webp",
+      "contentType": "image/webp",
+      "bytes": 354194,
+      "source": "upload",
+      "replacedAt": "2026-07-30T12:16:41.429Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-730230daae.webp",
+      "url": "/preview/james-lucas-roofing-services/assets/img-730230daae.webp",
+      "originalUrl": "/preview/james-lucas-roofing-services/assets/img-730230daae.webp",
+      "contentType": "image/webp",
+      "bytes": 180782,
+      "source": "upload",
+      "replacedAt": "2026-07-30T12:16:41.429Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-be3906ec83.webp",
+      "url": "/preview/james-lucas-roofing-services/assets/img-be3906ec83.webp",
+      "originalUrl": "/preview/james-lucas-roofing-services/assets/img-be3906ec83.webp",
+      "contentType": "image/webp",
+      "bytes": 231102,
+      "source": "upload",
+      "replacedAt": "2026-07-30T12:16:41.429Z"
+    },
+    {
+      "id": "seed-image-5",
+      "role": "image",
+      "file": "assets/img-1446aed24a.webp",
+      "url": "/preview/james-lucas-roofing-services/assets/img-1446aed24a.webp",
+      "originalUrl": "/preview/james-lucas-roofing-services/assets/img-1446aed24a.webp",
+      "contentType": "image/webp",
+      "bytes": 152336,
+      "source": "upload",
+      "replacedAt": "2026-07-30T12:16:41.429Z"
+    },
+    {
+      "id": "seed-image-6",
+      "role": "image",
+      "file": "assets/img-9a805cf1d6.webp",
+      "url": "/preview/james-lucas-roofing-services/assets/img-9a805cf1d6.webp",
+      "originalUrl": "/preview/james-lucas-roofing-services/assets/img-9a805cf1d6.webp",
+      "contentType": "image/webp",
+      "bytes": 267980,
+      "source": "upload",
+      "replacedAt": "2026-07-30T12:16:41.429Z"
+    },
+    {
+      "id": "seed-image-7",
+      "role": "image",
+      "file": "assets/img-930d1d2091.webp",
+      "url": "/preview/james-lucas-roofing-services/assets/img-930d1d2091.webp",
+      "originalUrl": "/preview/james-lucas-roofing-services/assets/img-930d1d2091.webp",
+      "contentType": "image/webp",
+      "bytes": 276166,
+      "source": "upload",
+      "replacedAt": "2026-07-30T12:16:41.429Z"
+    },
+    {
+      "id": "seed-image-8",
+      "role": "image",
+      "file": "assets/img-324011d968.webp",
+      "url": "/preview/james-lucas-roofing-services/assets/img-324011d968.webp",
+      "originalUrl": "/preview/james-lucas-roofing-services/assets/img-324011d968.webp",
+      "contentType": "image/webp",
+      "bytes": 127146,
+      "source": "upload",
+      "replacedAt": "2026-07-30T12:16:41.429Z"
+    }
+  ]
+}
