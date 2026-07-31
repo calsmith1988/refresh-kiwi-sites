@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "slug": "la-canna-2",
+  "localizedAt": "2026-07-31T07:46:20.982Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-710a459fbe.webp",
+      "url": "/preview/la-canna-2/assets/img-710a459fbe.webp",
+      "originalUrl": "/preview/la-canna-2/assets/img-710a459fbe.webp",
+      "contentType": "image/webp",
+      "bytes": 402124,
+      "source": "upload",
+      "replacedAt": "2026-07-31T07:46:20.982Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-dc54f168dc.webp",
+      "url": "/preview/la-canna-2/assets/img-dc54f168dc.webp",
+      "originalUrl": "/preview/la-canna-2/assets/img-dc54f168dc.webp",
+      "contentType": "image/webp",
+      "bytes": 230058,
+      "source": "upload",
+      "replacedAt": "2026-07-31T07:46:20.982Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-18b6cec769.webp",
+      "url": "/preview/la-canna-2/assets/img-18b6cec769.webp",
+      "originalUrl": "/preview/la-canna-2/assets/img-18b6cec769.webp",
+      "contentType": "image/webp",
+      "bytes": 322170,
+      "source": "upload",
+      "replacedAt": "2026-07-31T07:46:20.982Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-2a54bd0973.webp",
+      "url": "/preview/la-canna-2/assets/img-2a54bd0973.webp",
+      "originalUrl": "/preview/la-canna-2/assets/img-2a54bd0973.webp",
+      "contentType": "image/webp",
+      "bytes": 351822,
+      "source": "upload",
+      "replacedAt": "2026-07-31T07:46:20.982Z"
+    },
+    {
+      "id": "seed-image-5",
+      "role": "image",
+      "file": "assets/img-02e400130c.webp",
+      "url": "/preview/la-canna-2/assets/img-02e400130c.webp",
+      "originalUrl": "/preview/la-canna-2/assets/img-02e400130c.webp",
+      "contentType": "image/webp",
+      "bytes": 377248,
+      "source": "upload",
+      "replacedAt": "2026-07-31T07:46:20.982Z"
+    },
+    {
+      "id": "seed-image-6",
+      "role": "image",
+      "file": "assets/img-c6080e1844.webp",
+      "url": "/preview/la-canna-2/assets/img-c6080e1844.webp",
+      "originalUrl": "/preview/la-canna-2/assets/img-c6080e1844.webp",
+      "contentType": "image/webp",
+      "bytes": 254458,
+      "source": "upload",
+      "replacedAt": "2026-07-31T07:46:20.982Z"
+    },
+    {
+      "id": "seed-image-7",
+      "role": "image",
+      "file": "assets/img-a8c8f5ab16.webp",
+      "url": "/preview/la-canna-2/assets/img-a8c8f5ab16.webp",
+      "originalUrl": "/preview/la-canna-2/assets/img-a8c8f5ab16.webp",
+      "contentType": "image/webp",
+      "bytes": 214006,
+      "source": "upload",
+      "replacedAt": "2026-07-31T07:46:20.982Z"
+    },
+    {
+      "id": "seed-image-8",
+      "role": "image",
+      "file": "assets/img-1fa437c530.webp",
+      "url": "/preview/la-canna-2/assets/img-1fa437c530.webp",
+      "originalUrl": "/preview/la-canna-2/assets/img-1fa437c530.webp",
+      "contentType": "image/webp",
+      "bytes": 247654,
+      "source": "upload",
+      "replacedAt": "2026-07-31T07:46:20.982Z"
+    }
+  ]
+}
