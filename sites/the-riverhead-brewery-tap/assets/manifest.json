@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "slug": "the-riverhead-brewery-tap",
+  "localizedAt": "2026-08-05T11:40:11.783Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-251adfbc83.webp",
+      "url": "/preview/the-riverhead-brewery-tap/assets/img-251adfbc83.webp",
+      "originalUrl": "/preview/the-riverhead-brewery-tap/assets/img-251adfbc83.webp",
+      "contentType": "image/webp",
+      "bytes": 319682,
+      "source": "upload",
+      "replacedAt": "2026-08-05T11:40:11.783Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-9ccd9cc779.webp",
+      "url": "/preview/the-riverhead-brewery-tap/assets/img-9ccd9cc779.webp",
+      "originalUrl": "/preview/the-riverhead-brewery-tap/assets/img-9ccd9cc779.webp",
+      "contentType": "image/webp",
+      "bytes": 70376,
+      "source": "upload",
+      "replacedAt": "2026-08-05T11:40:11.783Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-be60a66d8c.webp",
+      "url": "/preview/the-riverhead-brewery-tap/assets/img-be60a66d8c.webp",
+      "originalUrl": "/preview/the-riverhead-brewery-tap/assets/img-be60a66d8c.webp",
+      "contentType": "image/webp",
+      "bytes": 276548,
+      "source": "upload",
+      "replacedAt": "2026-08-05T11:40:11.783Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-1fbb5cc9eb.webp",
+      "url": "/preview/the-riverhead-brewery-tap/assets/img-1fbb5cc9eb.webp",
+      "originalUrl": "/preview/the-riverhead-brewery-tap/assets/img-1fbb5cc9eb.webp",
+      "contentType": "image/webp",
+      "bytes": 534868,
+      "source": "upload",
+      "replacedAt": "2026-08-05T11:40:11.783Z"
+    },
+    {
+      "id": "seed-image-5",
+      "role": "image",
+      "file": "assets/img-bdee5ac55c.webp",
+      "url": "/preview/the-riverhead-brewery-tap/assets/img-bdee5ac55c.webp",
+      "originalUrl": "/preview/the-riverhead-brewery-tap/assets/img-bdee5ac55c.webp",
+      "contentType": "image/webp",
+      "bytes": 169730,
+      "source": "upload",
+      "replacedAt": "2026-08-05T11:40:11.783Z"
+    },
+    {
+      "id": "seed-image-6",
+      "role": "image",
+      "file": "assets/img-174e5a3599.webp",
+      "url": "/preview/the-riverhead-brewery-tap/assets/img-174e5a3599.webp",
+      "originalUrl": "/preview/the-riverhead-brewery-tap/assets/img-174e5a3599.webp",
+      "contentType": "image/webp",
+      "bytes": 311632,
+      "source": "upload",
+      "replacedAt": "2026-08-05T11:40:11.783Z"
+    },
+    {
+      "id": "seed-image-7",
+      "role": "image",
+      "file": "assets/img-110c54b7d4.webp",
+      "url": "/preview/the-riverhead-brewery-tap/assets/img-110c54b7d4.webp",
+      "originalUrl": "/preview/the-riverhead-brewery-tap/assets/img-110c54b7d4.webp",
+      "contentType": "image/webp",
+      "bytes": 254454,
+      "source": "upload",
+      "replacedAt": "2026-08-05T11:40:11.783Z"
+    },
+    {
+      "id": "seed-image-8",
+      "role": "image",
+      "file": "assets/img-35f96c4002.webp",
+      "url": "/preview/the-riverhead-brewery-tap/assets/img-35f96c4002.webp",
+      "originalUrl": "/preview/the-riverhead-brewery-tap/assets/img-35f96c4002.webp",
+      "contentType": "image/webp",
+      "bytes": 214368,
+      "source": "upload",
+      "replacedAt": "2026-08-05T11:40:11.783Z"
+    }
+  ]
+}
