@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "slug": "marc-s-plumbing-heating-ltd",
+  "localizedAt": "2026-08-06T20:24:31.183Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-7145cdd170.webp",
+      "url": "/preview/marc-s-plumbing-heating-ltd/assets/img-7145cdd170.webp",
+      "originalUrl": "/preview/marc-s-plumbing-heating-ltd/assets/img-7145cdd170.webp",
+      "contentType": "image/webp",
+      "bytes": 405352,
+      "source": "upload",
+      "replacedAt": "2026-08-06T20:24:31.183Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-637b6954ed.webp",
+      "url": "/preview/marc-s-plumbing-heating-ltd/assets/img-637b6954ed.webp",
+      "originalUrl": "/preview/marc-s-plumbing-heating-ltd/assets/img-637b6954ed.webp",
+      "contentType": "image/webp",
+      "bytes": 135458,
+      "source": "upload",
+      "replacedAt": "2026-08-06T20:24:31.183Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-dfa3e9185c.webp",
+      "url": "/preview/marc-s-plumbing-heating-ltd/assets/img-dfa3e9185c.webp",
+      "originalUrl": "/preview/marc-s-plumbing-heating-ltd/assets/img-dfa3e9185c.webp",
+      "contentType": "image/webp",
+      "bytes": 253462,
+      "source": "upload",
+      "replacedAt": "2026-08-06T20:24:31.183Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-b3ba529b4b.webp",
+      "url": "/preview/marc-s-plumbing-heating-ltd/assets/img-b3ba529b4b.webp",
+      "originalUrl": "/preview/marc-s-plumbing-heating-ltd/assets/img-b3ba529b4b.webp",
+      "contentType": "image/webp",
+      "bytes": 206926,
+      "source": "upload",
+      "replacedAt": "2026-08-06T20:24:31.183Z"
+    },
+    {
+      "id": "seed-image-5",
+      "role": "image",
+      "file": "assets/img-98bb2aa0ff.webp",
+      "url": "/preview/marc-s-plumbing-heating-ltd/assets/img-98bb2aa0ff.webp",
+      "originalUrl": "/preview/marc-s-plumbing-heating-ltd/assets/img-98bb2aa0ff.webp",
+      "contentType": "image/webp",
+      "bytes": 33456,
+      "source": "upload",
+      "replacedAt": "2026-08-06T20:24:31.183Z"
+    },
+    {
+      "id": "seed-image-6",
+      "role": "image",
+      "file": "assets/img-25d5ad59c7.webp",
+      "url": "/preview/marc-s-plumbing-heating-ltd/assets/img-25d5ad59c7.webp",
+      "originalUrl": "/preview/marc-s-plumbing-heating-ltd/assets/img-25d5ad59c7.webp",
+      "contentType": "image/webp",
+      "bytes": 161686,
+      "source": "upload",
+      "replacedAt": "2026-08-06T20:24:31.183Z"
+    },
+    {
+      "id": "seed-image-7",
+      "role": "image",
+      "file": "assets/img-619a06e056.webp",
+      "url": "/preview/marc-s-plumbing-heating-ltd/assets/img-619a06e056.webp",
+      "originalUrl": "/preview/marc-s-plumbing-heating-ltd/assets/img-619a06e056.webp",
+      "contentType": "image/webp",
+      "bytes": 378976,
+      "source": "upload",
+      "replacedAt": "2026-08-06T20:24:31.183Z"
+    },
+    {
+      "id": "seed-image-8",
+      "role": "image",
+      "file": "assets/img-36fac406a3.webp",
+      "url": "/preview/marc-s-plumbing-heating-ltd/assets/img-36fac406a3.webp",
+      "originalUrl": "/preview/marc-s-plumbing-heating-ltd/assets/img-36fac406a3.webp",
+      "contentType": "image/webp",
+      "bytes": 216590,
+      "source": "upload",
+      "replacedAt": "2026-08-06T20:24:31.183Z"
+    }
+  ]
+}
