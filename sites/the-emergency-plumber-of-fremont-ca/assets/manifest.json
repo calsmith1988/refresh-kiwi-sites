@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "slug": "the-emergency-plumber-of-fremont-ca",
+  "localizedAt": "2026-08-07T19:23:29.833Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-5be947f1bc.webp",
+      "url": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-5be947f1bc.webp",
+      "originalUrl": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-5be947f1bc.webp",
+      "contentType": "image/webp",
+      "bytes": 285708,
+      "source": "upload",
+      "replacedAt": "2026-08-07T19:23:29.833Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-a6162acd67.webp",
+      "url": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-a6162acd67.webp",
+      "originalUrl": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-a6162acd67.webp",
+      "contentType": "image/webp",
+      "bytes": 28438,
+      "source": "upload",
+      "replacedAt": "2026-08-07T19:23:29.833Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-3266eaf30a.webp",
+      "url": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-3266eaf30a.webp",
+      "originalUrl": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-3266eaf30a.webp",
+      "contentType": "image/webp",
+      "bytes": 68388,
+      "source": "upload",
+      "replacedAt": "2026-08-07T19:23:29.833Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-3bb0804703.webp",
+      "url": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-3bb0804703.webp",
+      "originalUrl": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-3bb0804703.webp",
+      "contentType": "image/webp",
+      "bytes": 258170,
+      "source": "upload",
+      "replacedAt": "2026-08-07T19:23:29.833Z"
+    },
+    {
+      "id": "seed-image-5",
+      "role": "image",
+      "file": "assets/img-fb62c51c6e.webp",
+      "url": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-fb62c51c6e.webp",
+      "originalUrl": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-fb62c51c6e.webp",
+      "contentType": "image/webp",
+      "bytes": 167288,
+      "source": "upload",
+      "replacedAt": "2026-08-07T19:23:29.833Z"
+    },
+    {
+      "id": "seed-image-6",
+      "role": "image",
+      "file": "assets/img-04cd4a1de2.webp",
+      "url": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-04cd4a1de2.webp",
+      "originalUrl": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-04cd4a1de2.webp",
+      "contentType": "image/webp",
+      "bytes": 62806,
+      "source": "upload",
+      "replacedAt": "2026-08-07T19:23:29.833Z"
+    },
+    {
+      "id": "seed-image-7",
+      "role": "image",
+      "file": "assets/img-475c751ace.webp",
+      "url": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-475c751ace.webp",
+      "originalUrl": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-475c751ace.webp",
+      "contentType": "image/webp",
+      "bytes": 58336,
+      "source": "upload",
+      "replacedAt": "2026-08-07T19:23:29.833Z"
+    },
+    {
+      "id": "seed-image-8",
+      "role": "image",
+      "file": "assets/img-d66920bf6f.webp",
+      "url": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-d66920bf6f.webp",
+      "originalUrl": "/preview/the-emergency-plumber-of-fremont-ca/assets/img-d66920bf6f.webp",
+      "contentType": "image/webp",
+      "bytes": 106656,
+      "source": "upload",
+      "replacedAt": "2026-08-07T19:23:29.833Z"
+    }
+  ]
+}
