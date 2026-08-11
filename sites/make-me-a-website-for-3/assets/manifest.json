@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "slug": "make-me-a-website-for-3",
+  "localizedAt": "2026-08-11T10:16:14.315Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-3295d9cd63.webp",
+      "url": "/preview/make-me-a-website-for-3/assets/img-3295d9cd63.webp",
+      "originalUrl": "/preview/make-me-a-website-for-3/assets/img-3295d9cd63.webp",
+      "contentType": "image/webp",
+      "bytes": 122776,
+      "source": "upload",
+      "replacedAt": "2026-08-11T10:16:14.315Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-2909b834be.webp",
+      "url": "/preview/make-me-a-website-for-3/assets/img-2909b834be.webp",
+      "originalUrl": "/preview/make-me-a-website-for-3/assets/img-2909b834be.webp",
+      "contentType": "image/webp",
+      "bytes": 86292,
+      "source": "upload",
+      "replacedAt": "2026-08-11T10:16:14.315Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-23092865c1.webp",
+      "url": "/preview/make-me-a-website-for-3/assets/img-23092865c1.webp",
+      "originalUrl": "/preview/make-me-a-website-for-3/assets/img-23092865c1.webp",
+      "contentType": "image/webp",
+      "bytes": 65302,
+      "source": "upload",
+      "replacedAt": "2026-08-11T10:16:14.315Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-191c10d2c3.webp",
+      "url": "/preview/make-me-a-website-for-3/assets/img-191c10d2c3.webp",
+      "originalUrl": "/preview/make-me-a-website-for-3/assets/img-191c10d2c3.webp",
+      "contentType": "image/webp",
+      "bytes": 187458,
+      "source": "upload",
+      "replacedAt": "2026-08-11T10:16:14.315Z"
+    },
+    {
+      "id": "seed-image-5",
+      "role": "image",
+      "file": "assets/img-c86fe3a002.webp",
+      "url": "/preview/make-me-a-website-for-3/assets/img-c86fe3a002.webp",
+      "originalUrl": "/preview/make-me-a-website-for-3/assets/img-c86fe3a002.webp",
+      "contentType": "image/webp",
+      "bytes": 136650,
+      "source": "upload",
+      "replacedAt": "2026-08-11T10:16:14.315Z"
+    }
+  ]
+}
