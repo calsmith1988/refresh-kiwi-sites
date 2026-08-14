@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "slug": "abbie-s-sweettreats-started-right-here",
+  "localizedAt": "2026-08-14T19:42:28.444Z",
+  "images": [
+    {
+      "id": "seed-logo",
+      "role": "logo",
+      "file": "assets/logo-8660459485.webp",
+      "url": "/preview/abbie-s-sweettreats-started-right-here/assets/logo-8660459485.webp",
+      "originalUrl": "/preview/abbie-s-sweettreats-started-right-here/assets/logo-8660459485.webp",
+      "contentType": "image/webp",
+      "bytes": 347058,
+      "source": "upload",
+      "replacedAt": "2026-08-14T19:42:28.444Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-c5983cd865.webp",
+      "url": "/preview/abbie-s-sweettreats-started-right-here/assets/img-c5983cd865.webp",
+      "originalUrl": "/preview/abbie-s-sweettreats-started-right-here/assets/img-c5983cd865.webp",
+      "contentType": "image/webp",
+      "bytes": 154608,
+      "source": "upload",
+      "replacedAt": "2026-08-14T19:42:28.444Z"
+    }
+  ]
+}
