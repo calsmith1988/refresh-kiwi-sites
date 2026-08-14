@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "slug": "home-renovation-in-ajax-ontario",
+  "localizedAt": "2026-08-14T04:05:19.714Z",
+  "images": [
+    {
+      "id": "seed-logo",
+      "role": "logo",
+      "file": "assets/logo-ee69abf6d0.webp",
+      "url": "/preview/home-renovation-in-ajax-ontario/assets/logo-ee69abf6d0.webp",
+      "originalUrl": "/preview/home-renovation-in-ajax-ontario/assets/logo-ee69abf6d0.webp",
+      "contentType": "image/webp",
+      "bytes": 31556,
+      "source": "upload",
+      "replacedAt": "2026-08-14T04:05:19.714Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-e753d68a08.webp",
+      "url": "/preview/home-renovation-in-ajax-ontario/assets/img-e753d68a08.webp",
+      "originalUrl": "/preview/home-renovation-in-ajax-ontario/assets/img-e753d68a08.webp",
+      "contentType": "image/webp",
+      "bytes": 242728,
+      "source": "upload",
+      "replacedAt": "2026-08-14T04:05:19.714Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-975b4d6711.webp",
+      "url": "/preview/home-renovation-in-ajax-ontario/assets/img-975b4d6711.webp",
+      "originalUrl": "/preview/home-renovation-in-ajax-ontario/assets/img-975b4d6711.webp",
+      "contentType": "image/webp",
+      "bytes": 497828,
+      "source": "upload",
+      "replacedAt": "2026-08-14T04:05:19.714Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-71953d4072.webp",
+      "url": "/preview/home-renovation-in-ajax-ontario/assets/img-71953d4072.webp",
+      "originalUrl": "/preview/home-renovation-in-ajax-ontario/assets/img-71953d4072.webp",
+      "contentType": "image/webp",
+      "bytes": 156526,
+      "source": "upload",
+      "replacedAt": "2026-08-14T04:05:19.714Z"
+    },
+    {
+      "id": "seed-image-5",
+      "role": "image",
+      "file": "assets/img-e678832c7b.webp",
+      "url": "/preview/home-renovation-in-ajax-ontario/assets/img-e678832c7b.webp",
+      "originalUrl": "/preview/home-renovation-in-ajax-ontario/assets/img-e678832c7b.webp",
+      "contentType": "image/webp",
+      "bytes": 129090,
+      "source": "upload",
+      "replacedAt": "2026-08-14T04:05:19.714Z"
+    },
+    {
+      "id": "seed-image-6",
+      "role": "image",
+      "file": "assets/img-b2bec8eebc.webp",
+      "url": "/preview/home-renovation-in-ajax-ontario/assets/img-b2bec8eebc.webp",
+      "originalUrl": "/preview/home-renovation-in-ajax-ontario/assets/img-b2bec8eebc.webp",
+      "contentType": "image/webp",
+      "bytes": 116070,
+      "source": "upload",
+      "replacedAt": "2026-08-14T04:05:19.714Z"
+    },
+    {
+      "id": "seed-image-7",
+      "role": "image",
+      "file": "assets/img-59593bd8e1.webp",
+      "url": "/preview/home-renovation-in-ajax-ontario/assets/img-59593bd8e1.webp",
+      "originalUrl": "/preview/home-renovation-in-ajax-ontario/assets/img-59593bd8e1.webp",
+      "contentType": "image/webp",
+      "bytes": 76812,
+      "source": "upload",
+      "replacedAt": "2026-08-14T04:05:19.714Z"
+    },
+    {
+      "id": "seed-image-8",
+      "role": "image",
+      "file": "assets/img-3d2d61a8bb.webp",
+      "url": "/preview/home-renovation-in-ajax-ontario/assets/img-3d2d61a8bb.webp",
+      "originalUrl": "/preview/home-renovation-in-ajax-ontario/assets/img-3d2d61a8bb.webp",
+      "contentType": "image/webp",
+      "bytes": 30814,
+      "source": "upload",
+      "replacedAt": "2026-08-14T04:05:19.714Z"
+    },
+    {
+      "id": "seed-image-9",
+      "role": "image",
+      "file": "assets/img-ce0a291c88.webp",
+      "url": "/preview/home-renovation-in-ajax-ontario/assets/img-ce0a291c88.webp",
+      "originalUrl": "/preview/home-renovation-in-ajax-ontario/assets/img-ce0a291c88.webp",
+      "contentType": "image/webp",
+      "bytes": 207520,
+      "source": "upload",
+      "replacedAt": "2026-08-14T04:05:19.714Z"
+    }
+  ]
+}
