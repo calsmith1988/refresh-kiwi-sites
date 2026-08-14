@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "slug": "abbie-ssweettreats-our-friend-sweet-goods-2",
+  "localizedAt": "2026-08-14T19:41:54.760Z",
+  "images": [
+    {
+      "id": "seed-logo",
+      "role": "logo",
+      "file": "assets/logo-8660459485.webp",
+      "url": "/preview/abbie-ssweettreats-our-friend-sweet-goods-2/assets/logo-8660459485.webp",
+      "originalUrl": "/preview/abbie-ssweettreats-our-friend-sweet-goods-2/assets/logo-8660459485.webp",
+      "contentType": "image/webp",
+      "bytes": 347058,
+      "source": "upload",
+      "replacedAt": "2026-08-14T19:41:54.760Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-c5983cd865.webp",
+      "url": "/preview/abbie-ssweettreats-our-friend-sweet-goods-2/assets/img-c5983cd865.webp",
+      "originalUrl": "/preview/abbie-ssweettreats-our-friend-sweet-goods-2/assets/img-c5983cd865.webp",
+      "contentType": "image/webp",
+      "bytes": 154608,
+      "source": "upload",
+      "replacedAt": "2026-08-14T19:41:54.760Z"
+    }
+  ]
+}
