@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "slug": "visit-oahu-group-which-provides-2",
+  "localizedAt": "2026-08-15T06:58:39.893Z",
+  "images": [
+    {
+      "id": "seed-logo",
+      "role": "logo",
+      "file": "assets/logo-65870553ef.webp",
+      "url": "/preview/visit-oahu-group-which-provides-2/assets/logo-65870553ef.webp",
+      "originalUrl": "/preview/visit-oahu-group-which-provides-2/assets/logo-65870553ef.webp",
+      "contentType": "image/webp",
+      "bytes": 53276,
+      "source": "upload",
+      "replacedAt": "2026-08-15T06:58:39.893Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-65870553ef.webp",
+      "url": "/preview/visit-oahu-group-which-provides-2/assets/img-65870553ef.webp",
+      "originalUrl": "/preview/visit-oahu-group-which-provides-2/assets/img-65870553ef.webp",
+      "contentType": "image/webp",
+      "bytes": 53276,
+      "source": "upload",
+      "replacedAt": "2026-08-15T06:58:39.893Z"
+    }
+  ]
+}
