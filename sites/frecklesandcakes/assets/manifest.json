@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "slug": "frecklesandcakes",
+  "localizedAt": "2026-08-15T23:53:21.721Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-28ced21f0f.webp",
+      "url": "/preview/frecklesandcakes/assets/img-28ced21f0f.webp",
+      "originalUrl": "/preview/frecklesandcakes/assets/img-28ced21f0f.webp",
+      "contentType": "image/webp",
+      "bytes": 192816,
+      "source": "upload",
+      "replacedAt": "2026-08-15T23:53:21.721Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-6e157637f8.webp",
+      "url": "/preview/frecklesandcakes/assets/img-6e157637f8.webp",
+      "originalUrl": "/preview/frecklesandcakes/assets/img-6e157637f8.webp",
+      "contentType": "image/webp",
+      "bytes": 205662,
+      "source": "upload",
+      "replacedAt": "2026-08-15T23:53:21.721Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-3320262f50.webp",
+      "url": "/preview/frecklesandcakes/assets/img-3320262f50.webp",
+      "originalUrl": "/preview/frecklesandcakes/assets/img-3320262f50.webp",
+      "contentType": "image/webp",
+      "bytes": 222456,
+      "source": "upload",
+      "replacedAt": "2026-08-15T23:53:21.721Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-970e64272e.webp",
+      "url": "/preview/frecklesandcakes/assets/img-970e64272e.webp",
+      "originalUrl": "/preview/frecklesandcakes/assets/img-970e64272e.webp",
+      "contentType": "image/webp",
+      "bytes": 352178,
+      "source": "upload",
+      "replacedAt": "2026-08-15T23:53:21.721Z"
+    },
+    {
+      "id": "seed-image-5",
+      "role": "image",
+      "file": "assets/img-d7bad117a0.webp",
+      "url": "/preview/frecklesandcakes/assets/img-d7bad117a0.webp",
+      "originalUrl": "/preview/frecklesandcakes/assets/img-d7bad117a0.webp",
+      "contentType": "image/webp",
+      "bytes": 262070,
+      "source": "upload",
+      "replacedAt": "2026-08-15T23:53:21.721Z"
+    },
+    {
+      "id": "seed-image-6",
+      "role": "image",
+      "file": "assets/img-6316a72fc9.webp",
+      "url": "/preview/frecklesandcakes/assets/img-6316a72fc9.webp",
+      "originalUrl": "/preview/frecklesandcakes/assets/img-6316a72fc9.webp",
+      "contentType": "image/webp",
+      "bytes": 325336,
+      "source": "upload",
+      "replacedAt": "2026-08-15T23:53:21.721Z"
+    },
+    {
+      "id": "seed-image-7",
+      "role": "image",
+      "file": "assets/img-1cbd016259.webp",
+      "url": "/preview/frecklesandcakes/assets/img-1cbd016259.webp",
+      "originalUrl": "/preview/frecklesandcakes/assets/img-1cbd016259.webp",
+      "contentType": "image/webp",
+      "bytes": 141362,
+      "source": "upload",
+      "replacedAt": "2026-08-15T23:53:21.721Z"
+    },
+    {
+      "id": "seed-image-8",
+      "role": "image",
+      "file": "assets/img-2710451cd2.webp",
+      "url": "/preview/frecklesandcakes/assets/img-2710451cd2.webp",
+      "originalUrl": "/preview/frecklesandcakes/assets/img-2710451cd2.webp",
+      "contentType": "image/webp",
+      "bytes": 103988,
+      "source": "upload",
+      "replacedAt": "2026-08-15T23:53:21.721Z"
+    }
+  ]
+}
