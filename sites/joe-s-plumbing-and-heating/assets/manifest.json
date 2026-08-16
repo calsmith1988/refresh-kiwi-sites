@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "slug": "joe-s-plumbing-and-heating",
+  "localizedAt": "2026-08-16T21:35:47.298Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-99f78d3245.webp",
+      "url": "/preview/joe-s-plumbing-and-heating/assets/img-99f78d3245.webp",
+      "originalUrl": "/preview/joe-s-plumbing-and-heating/assets/img-99f78d3245.webp",
+      "contentType": "image/webp",
+      "bytes": 325966,
+      "source": "upload",
+      "replacedAt": "2026-08-16T21:35:47.298Z"
+    },
+    {
+      "id": "seed-image-2",
+      "role": "image",
+      "file": "assets/img-128dfe26a0.webp",
+      "url": "/preview/joe-s-plumbing-and-heating/assets/img-128dfe26a0.webp",
+      "originalUrl": "/preview/joe-s-plumbing-and-heating/assets/img-128dfe26a0.webp",
+      "contentType": "image/webp",
+      "bytes": 135904,
+      "source": "upload",
+      "replacedAt": "2026-08-16T21:35:47.298Z"
+    },
+    {
+      "id": "seed-image-3",
+      "role": "image",
+      "file": "assets/img-159e3d76b4.webp",
+      "url": "/preview/joe-s-plumbing-and-heating/assets/img-159e3d76b4.webp",
+      "originalUrl": "/preview/joe-s-plumbing-and-heating/assets/img-159e3d76b4.webp",
+      "contentType": "image/webp",
+      "bytes": 245904,
+      "source": "upload",
+      "replacedAt": "2026-08-16T21:35:47.298Z"
+    },
+    {
+      "id": "seed-image-4",
+      "role": "image",
+      "file": "assets/img-8c15e481a9.webp",
+      "url": "/preview/joe-s-plumbing-and-heating/assets/img-8c15e481a9.webp",
+      "originalUrl": "/preview/joe-s-plumbing-and-heating/assets/img-8c15e481a9.webp",
+      "contentType": "image/webp",
+      "bytes": 265664,
+      "source": "upload",
+      "replacedAt": "2026-08-16T21:35:47.298Z"
+    },
+    {
+      "id": "seed-image-5",
+      "role": "image",
+      "file": "assets/img-07cb5014ff.webp",
+      "url": "/preview/joe-s-plumbing-and-heating/assets/img-07cb5014ff.webp",
+      "originalUrl": "/preview/joe-s-plumbing-and-heating/assets/img-07cb5014ff.webp",
+      "contentType": "image/webp",
+      "bytes": 91816,
+      "source": "upload",
+      "replacedAt": "2026-08-16T21:35:47.298Z"
+    },
+    {
+      "id": "seed-image-6",
+      "role": "image",
+      "file": "assets/img-f86fa1e1a2.webp",
+      "url": "/preview/joe-s-plumbing-and-heating/assets/img-f86fa1e1a2.webp",
+      "originalUrl": "/preview/joe-s-plumbing-and-heating/assets/img-f86fa1e1a2.webp",
+      "contentType": "image/webp",
+      "bytes": 385406,
+      "source": "upload",
+      "replacedAt": "2026-08-16T21:35:47.298Z"
+    },
+    {
+      "id": "seed-image-7",
+      "role": "image",
+      "file": "assets/img-32da1f3922.webp",
+      "url": "/preview/joe-s-plumbing-and-heating/assets/img-32da1f3922.webp",
+      "originalUrl": "/preview/joe-s-plumbing-and-heating/assets/img-32da1f3922.webp",
+      "contentType": "image/webp",
+      "bytes": 239558,
+      "source": "upload",
+      "replacedAt": "2026-08-16T21:35:47.298Z"
+    },
+    {
+      "id": "seed-image-8",
+      "role": "image",
+      "file": "assets/img-19a304835d.webp",
+      "url": "/preview/joe-s-plumbing-and-heating/assets/img-19a304835d.webp",
+      "originalUrl": "/preview/joe-s-plumbing-and-heating/assets/img-19a304835d.webp",
+      "contentType": "image/webp",
+      "bytes": 263846,
+      "source": "upload",
+      "replacedAt": "2026-08-16T21:35:47.298Z"
+    }
+  ]
+}
