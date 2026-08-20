@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "slug": "webcatalog",
+  "localizedAt": "2026-08-20T02:35:02.247Z",
+  "images": [
+    {
+      "id": "seed-image-1",
+      "role": "image",
+      "file": "assets/img-06e6d90fb1.webp",
+      "url": "/preview/webcatalog/assets/img-06e6d90fb1.webp",
+      "originalUrl": "/preview/webcatalog/assets/img-06e6d90fb1.webp",
+      "contentType": "image/webp",
+      "bytes": 16994,
+      "source": "upload",
+      "replacedAt": "2026-08-20T02:35:02.247Z"
+    }
+  ]
+}
