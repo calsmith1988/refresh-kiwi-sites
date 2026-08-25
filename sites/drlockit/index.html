@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Dr Lock It — trusted 24/7 mobile locksmith in Cardiff and South Wales. Emergency lockouts, auto locksmith, UPVC repairs. No call-out charges."
+    />
+    <title>Dr Lock It — Trusted Locksmith Services in Cardiff</title>
+    <link rel="icon" href="assets/favicon.png" type="image/png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Outfit:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <div class="emergency-bar" role="complementary" aria-label="Emergency contact">
+      <span class="emergency-bar__pulse" aria-hidden="true"></span>
+      <span>24/7 Emergency Locksmith</span>
+      <a href="tel:02921170990" class="emergency-bar__phone">02921 170 990</a>
+    </div>
+
+    <header class="site-header" id="top">
+      <div class="site-header__inner">
+        <a href="/" class="logo" aria-label="Dr Lock It — Home">
+          <img src="assets/logo.png" alt="Dr Lock It" width="180" height="90" />
+        </a>
+        <nav class="nav" aria-label="Primary">
+          <ul class="nav__list">
+            <li><a href="/about">About</a></li>
+            <li><a href="/services">Services</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </nav>
+        <a href="tel:02921170990" class="btn btn--call header__call">
+          <span class="btn__label">Call now</span>
+          <span class="btn__number">02921 170 990</span>
+        </a>
+        <button
+          class="nav-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="mobile-menu"
+          aria-label="Open menu"
+        >
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+      <div class="mobile-menu" id="mobile-menu" hidden>
+        <nav aria-label="Mobile">
+          <ul>
+            <li><a href="/about">About</a></li>
+            <li><a href="/services">Services</a></li>
+            <li><a href="/contact">Contact</a></li>
+            <li>
+              <a href="tel:02921170990" class="mobile-menu__call">02921 170 990</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="hero" aria-labelledby="hero-heading">
+        <div class="hero__grid">
+          <div class="hero__content">
+            <p class="hero__eyebrow">Cardiff &amp; South Wales</p>
+            <h1 id="hero-heading">Trusted locksmith services near you</h1>
+            <p class="hero__lead">
+              Unlock peace of mind with our professional locksmith services. Whether you're locked out,
+              need your locks changed, or want to enhance the security of your home or office, Dr Lock It
+              has you covered — your safety is our priority.
+            </p>
+            <div class="hero__actions">
+              <a href="tel:02921170990" class="btn btn--primary btn--lg">Call us today</a>
+              <a href="#services" class="btn btn--ghost btn--lg">Our services</a>
+            </div>
+            <dl class="hero__stats">
+              <div>
+                <dt>Response</dt>
+                <dd>Minutes, not hours</dd>
+              </div>
+              <div>
+                <dt>Call-out fee</dt>
+                <dd>£0 — always</dd>
+              </div>
+              <div>
+                <dt>Experience</dt>
+                <dd>20+ years</dd>
+              </div>
+            </dl>
+          </div>
+          <div class="hero__visual">
+            <div class="hero__image-wrap">
+              <img
+                src="assets/hero-van.png"
+                alt="Dr Lock It mobile locksmith van"
+                width="1400"
+                height="801"
+                fetchpriority="high"
+              />
+              <div class="hero__badge">
+                <span class="hero__badge-num">24/7</span>
+                <span class="hero__badge-text">Emergency<br />locksmith</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="hero__photo">
+          <img
+            src="assets/team-photo.jpg"
+            alt="Dr Lock It locksmith at work"
+            width="600"
+            height="450"
+            loading="lazy"
+          />
+        </div>
+      </section>
+
+      <section class="about reveal" aria-labelledby="about-heading">
+        <div class="about__grid">
+          <div class="about__media">
+            <img
+              src="assets/about-photo.jpg"
+              alt="Dr Lock It locksmith providing emergency service"
+              width="600"
+              height="800"
+              loading="lazy"
+            />
+            <div class="about__tag">Local &amp; independent</div>
+          </div>
+          <div class="about__content">
+            <p class="section-eyebrow">Who we are</p>
+            <h2 id="about-heading">Your local business providing emergency locksmith services</h2>
+            <p>
+              Our mission has remained the same: to provide unparalleled locksmith services and allow our
+              work to exceed all expectations of professionalism, integrity, and effectiveness. From the
+              smallest job to the most strenuous, we make sure that we're not finished until the satisfaction
+              of our customers is met.
+            </p>
+            <p>
+              We aim to finish each project in a timely manner and of the highest quality. With a focus on
+              personalised service, competitive rates and customer satisfaction, we're always striving to
+              meet and exceed industry expectations.
+            </p>
+            <a href="/about" class="text-link">Learn more about us</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="services reveal" id="services" aria-labelledby="services-heading">
+        <header class="section-header">
+          <p class="section-eyebrow">What we do</p>
+          <h2 id="services-heading">Our services</h2>
+          <p class="section-intro">
+            We are delighted to offer our wide range of locksmith services to both homeowners and businesses.
+          </p>
+        </header>
+        <div class="services__track" role="list">
+          <article class="service-card" role="listitem">
+            <div class="service-card__image">
+              <img src="assets/service-auto.jpg" alt="" width="768" height="1024" loading="lazy" />
+            </div>
+            <div class="service-card__body">
+              <span class="service-card__index">01</span>
+              <h3>Auto locksmith</h3>
+              <p>
+                As auto locksmiths, we specialise in resolving all mobile car locksmith services, such as
+                any lock and key issues our customers may have.
+              </p>
+            </div>
+          </article>
+          <article class="service-card" role="listitem">
+            <div class="service-card__image">
+              <img src="assets/service-home.jpg" alt="" width="768" height="1024" loading="lazy" />
+            </div>
+            <div class="service-card__body">
+              <span class="service-card__index">02</span>
+              <h3>Home</h3>
+              <p>
+                From emergency lockout assistance to mobile key cutting, Dr Lock It is your go-to local
+                locksmith offering emergency locksmith services to homeowners in and around Cardiff.
+              </p>
+            </div>
+          </article>
+          <article class="service-card" role="listitem">
+            <div class="service-card__image">
+              <img src="assets/service-business.jpg" alt="" width="768" height="1024" loading="lazy" />
+            </div>
+            <div class="service-card__body">
+              <span class="service-card__index">03</span>
+              <h3>Business</h3>
+              <p>
+                Is your business looking for a local locksmith in your area to assist you with all locksmith
+                services? Dr Lock It is the locksmith for you.
+              </p>
+            </div>
+          </article>
+          <article class="service-card" role="listitem">
+            <div class="service-card__image">
+              <img src="assets/service-upvc.jpg" alt="" width="768" height="1024" loading="lazy" />
+            </div>
+            <div class="service-card__body">
+              <span class="service-card__index">04</span>
+              <h3>UPVC repairs</h3>
+              <p>
+                As professional locksmiths, we assist our customers with any issues related to their doors
+                and windows. Wear and tear are common for these features, and they are exposed to both indoor
+                and outdoor conditions.
+              </p>
+            </div>
+          </article>
+        </div>
+        <div class="services__cta">
+          <a href="/services" class="btn btn--outline">View all services</a>
+        </div>
+      </section>
+
+      <section class="trust reveal" aria-label="Why choose Dr Lock It">
+        <div class="trust__grid">
+          <article class="trust-card">
+            <img src="assets/icon-coverage.png" alt="" width="120" height="120" loading="lazy" />
+            <h3>Mobile locksmiths covering</h3>
+            <p>
+              Cardiff, Barry, Penarth, Caerphilly, Newport, Risca, Cwmbran &amp; surrounding areas in South
+              Wales
+            </p>
+          </article>
+          <article class="trust-card trust-card--accent">
+            <img src="assets/icon-no-fee.png" alt="" width="120" height="120" loading="lazy" />
+            <h3>No call-out charges</h3>
+            <p>Transparent service, no extra costs</p>
+          </article>
+          <article class="trust-card">
+            <img src="assets/icon-experience.png" alt="" width="120" height="120" loading="lazy" />
+            <h3>20+ years of experience</h3>
+            <p>
+              Backed by years of engineering and auto electrical expertise, we deliver reliable solutions
+              every time.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="testimonials reveal" aria-labelledby="testimonials-heading">
+        <header class="section-header section-header--center">
+          <p class="section-eyebrow">Google reviews</p>
+          <h2 id="testimonials-heading">Client testimonials</h2>
+        </header>
+        <div class="testimonials__grid">
+          <blockquote class="quote-card">
+            <p>
+              “Highly recommended! Can't thank you enough for helping me when I was locked out of my house
+              in the late hours of the evening, with none of my flatmates around and panicking. He arrived
+              in just three minutes and was able to get me back into my house in no time — he has also dealt
+              with all of the key cutting and getting in touch with the landlord! Thank you so so much for
+              being so kind and helping me out so quickly”
+            </p>
+            <footer>
+              <cite>I H</cite>
+              <span>Google Review</span>
+            </footer>
+          </blockquote>
+          <blockquote class="quote-card quote-card--featured">
+            <p>
+              “Friendly and great service on such short notice, especially for a Saturday afternoon.
+              Locksmith was able to fix the problem within minutes, as well as give a clear and thorough
+              explanation as to what went wrong and how to fix for future reference. Would definitely
+              recommend.”
+            </p>
+            <footer>
+              <cite>Olivia Kisley-Jones</cite>
+              <span>Google Review</span>
+            </footer>
+          </blockquote>
+          <blockquote class="quote-card">
+            <p>
+              “Locked my keys in my car. This guy came to the rescue!! Lovely guy, came out straight away,
+              super polite and got me back in my car in just a few minutes!! Would definitely recommend if
+              you find yourself in my situation!! Thank you Dr Lock It.”
+            </p>
+            <footer>
+              <cite>Ceri O'Connell</cite>
+              <span>Google Review</span>
+            </footer>
+          </blockquote>
+        </div>
+      </section>
+
+      <section class="nhs reveal" aria-labelledby="nhs-heading">
+        <div class="nhs__grid">
+          <div class="nhs__badge-wrap">
+            <img
+              src="assets/nhs-badge.png"
+              alt="NHS and care home staff discount badge"
+              width="400"
+              height="400"
+              loading="lazy"
+            />
+          </div>
+          <div class="nhs__content">
+            <p class="section-eyebrow section-eyebrow--light">Thank you</p>
+            <h2 id="nhs-heading">20% off for NHS &amp; care home staff</h2>
+            <p>
+              As a thank you for your hard work and dedication, we're proud to offer
+              <strong>20% off all locksmith services</strong> for NHS and care home staff. Whether you need
+              emergency lockout assistance, lock repairs, or security upgrades, we're here to help — quickly,
+              affordably, and with the respect you deserve.
+            </p>
+            <a href="tel:02921170990" class="btn btn--light">Call to claim your discount</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="certs reveal" aria-label="Accreditations">
+        <div class="certs__inner">
+          <img src="assets/cert-1.png" alt="Accreditation badge" width="120" height="120" loading="lazy" />
+          <img src="assets/icon-coverage.png" alt="Accreditation badge" width="120" height="120" loading="lazy" />
+          <img src="assets/icon-no-fee.png" alt="Accreditation badge" width="120" height="120" loading="lazy" />
+          <img src="assets/icon-experience.png" alt="Accreditation badge" width="120" height="120" loading="lazy" />
+          <img src="assets/cert-2.png" alt="Accreditation badge" width="120" height="120" loading="lazy" />
+        </div>
+      </section>
+
+      <section class="cta-band" aria-labelledby="cta-heading">
+        <div class="cta-band__inner">
+          <div>
+            <h2 id="cta-heading">Locked out? We're on our way.</h2>
+            <p>24/7 mobile locksmith across Cardiff and South Wales. No call-out charges.</p>
+          </div>
+          <a href="tel:02921170990" class="btn btn--primary btn--xl">
+            <span>02921 170 990</span>
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-footer__grid">
+        <div class="site-footer__brand">
+          <img src="assets/logo.png" alt="Dr Lock It" width="160" height="80" loading="lazy" />
+          <p>
+            Dr Lock It is your trusted local locksmith, providing 24/7 professional lock and key services
+            for homes, businesses, and vehicles.
+          </p>
+        </div>
+        <div>
+          <h3>Contact</h3>
+          <ul class="footer-links">
+            <li><a href="tel:02921170990">02921 170 990</a></li>
+            <li><a href="mailto:info@drlockit.co.uk">info@drlockit.co.uk</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>Pages</h3>
+          <ul class="footer-links">
+            <li><a href="/about">About</a></li>
+            <li><a href="/services">Services</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>Follow us</h3>
+          <ul class="footer-links footer-links--social">
+            <li>
+              <a href="https://www.facebook.com/DrLockIt/" target="_blank" rel="noopener noreferrer"
+                >Facebook</a
+              >
+            </li>
+            <li>
+              <a href="https://www.instagram.com/dr.lockit" target="_blank" rel="noopener noreferrer"
+                >Instagram</a
+              >
+            </li>
+            <li>
+              <a href="https://www.tiktok.com/@dr.lockit" target="_blank" rel="noopener noreferrer"
+                >TikTok</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="site-footer__bottom">
+        <p>&copy; <span id="year"></span> Dr Lock It. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <a href="tel:02921170990" class="fab-call" aria-label="Call 02921 170 990">
+      <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+        <path
+          fill="currentColor"
+          d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.56.57 1 1 0 011 1V21a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.56 1 1 0 01-.25 1.01l-2.2 2.22z"
+        />
+      </svg>
+    </a>
+
+    <script src="main.js"></script>
+  </body>
+</html>
