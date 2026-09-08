@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "slug": "www-3",
+  "localizedAt": "2026-09-08T04:20:51.152Z",
+  "images": [
+    {
+      "id": "seed-logo",
+      "role": "logo",
+      "file": "assets/logo-2ed19c9b3d.webp",
+      "url": "/preview/www-3/assets/logo-2ed19c9b3d.webp",
+      "originalUrl": "/preview/www-3/assets/logo-2ed19c9b3d.webp",
+      "contentType": "image/webp",
+      "bytes": 22936,
+      "source": "upload",
+      "replacedAt": "2026-09-08T04:20:51.152Z"
+    }
+  ]
+}
